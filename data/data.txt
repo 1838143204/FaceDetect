@@ -1,0 +1,4821 @@
+../data/image/disgust_07_135_4925.jpg
+1
+346 226 408 408
+../data/image/neutral_01_278_7250.jpg
+1
+293 233 364 364
+../data/image/fear_08_270_6485.jpg
+1
+360 247 444 444
+../data/image/disgust_07_332_2758.jpg
+1
+351 258 336 336
+../data/image/anger_05_263_5703.jpg
+1
+321 262 418 418
+../data/image/fear_08_262_5590.jpg
+1
+274 136 455 455
+../data/image/neutral_01_185_7522.jpg
+1
+362 219 430 430
+../data/image/anger_05_341_3695.jpg
+1
+380 288 376 376
+../data/image/happy_02_326_2222.jpg
+1
+405 276 351 351
+../data/image/surprise_06_225_2078.jpg
+1
+413 266 425 425
+../data/image/neutral_01_128_4162.jpg
+1
+361 187 480 480
+../data/image/happy_02_274_6909.jpg
+1
+261 205 386 386
+../data/image/fear_08_327_2342.jpg
+1
+413 264 338 338
+../data/image/happy_02_261_5460.jpg
+1
+239 263 416 416
+../data/image/anger_05_132_4597.jpg
+1
+293 282 419 419
+../data/image/fear_08_133_4710.jpg
+1
+407 252 444 444
+../data/image/fear_08_306_0310.jpg
+1
+436 268 372 372
+../data/image/neutral_01_333_2840.jpg
+1
+379 256 388 388
+../data/image/happy_02_338_3368.jpg
+1
+387 258 316 316
+../data/image/neutral_01_386_2735.jpg
+1
+358 270 359 359
+../data/image/neutral_01_374_1367.jpg
+1
+346 244 388 388
+../data/image/sad_03_185_7529.jpg
+1
+321 235 409 409
+../data/image/anger_05_264_5821.jpg
+1
+286 259 426 426
+../data/image/surprise_06_369_1488.jpg
+1
+382 250 364 364
+../data/image/anger_05_296_9198.jpg
+1
+411 345 346 346
+../data/image/neutral_01_383_2313.jpg
+1
+419 280 307 307
+../data/image/disgust_07_124_3768.jpg
+1
+260 239 446 446
+../data/image/disgust_07_364_0643.jpg
+1
+365 248 351 351
+../data/image/fear_08_319_1689.jpg
+1
+372 259 337 337
+../data/image/surprise_06_198_9009.jpg
+1
+322 272 403 403
+../data/image/neutral_01_192_8367.jpg
+1
+352 214 386 386
+../data/image/anger_05_240_3835.jpg
+1
+332 275 407 407
+../data/image/sad_03_393_3461.jpg
+1
+356 212 384 384
+../data/image/fear_08_292_8792.jpg
+1
+315 219 435 435
+../data/image/happy_02_284_7896.jpg
+1
+402 230 346 346
+../data/image/anger_05_259_5250.jpg
+1
+421 313 393 393
+../data/image/neutral_01_360_0206.jpg
+1
+397 281 314 314
+../data/image/surprise_06_201_9372.jpg
+1
+320 189 467 467
+../data/image/surprise_06_232_2917.jpg
+1
+382 245 411 411
+../data/image/happy_02_175_6126.jpg
+1
+216 208 422 422
+../data/image/happy_02_173_5847.jpg
+1
+337 218 442 442
+../data/image/neutral_01_363_0527.jpg
+1
+349 227 388 388
+../data/image/happy_02_178_6550.jpg
+1
+361 210 399 399
+../data/image/neutral_01_367_0934.jpg
+1
+382 257 328 328
+../data/image/surprise_06_267_6157.jpg
+1
+364 335 337 337
+../data/image/fear_08_320_1799.jpg
+1
+357 299 367 367
+../data/image/happy_02_373_1262.jpg
+1
+344 228 390 390
+../data/image/sad_03_262_5571.jpg
+1
+332 224 393 393
+../data/image/fear_08_116_3037.jpg
+1
+249 199 477 477
+../data/image/disgust_07_254_4722.jpg
+1
+419 235 416 416
+../data/image/anger_05_203_9498.jpg
+1
+372 249 440 440
+../data/image/disgust_07_304_0094.jpg
+1
+424 259 338 338
+../data/image/surprise_06_361_0328.jpg
+1
+301 255 412 412
+../data/image/happy_02_390_3148.jpg
+1
+370 265 339 339
+../data/image/disgust_07_352_4878.jpg
+1
+386 234 403 403
+../data/image/sad_03_265_5925.jpg
+1
+355 246 432 432
+../data/image/anger_05_277_7154.jpg
+1
+294 269 429 429
+../data/image/sad_03_383_2319.jpg
+1
+404 271 348 348
+../data/image/happy_02_347_4331.jpg
+1
+364 253 365 365
+../data/image/anger_05_315_1247.jpg
+1
+358 322 334 334
+../data/image/sad_03_325_2125.jpg
+1
+342 276 390 390
+../data/image/sad_03_270_6470.jpg
+1
+312 229 433 433
+../data/image/happy_02_305_0183.jpg
+1
+400 253 338 338
+../data/image/fear_08_268_6272.jpg
+1
+320 249 398 398
+../data/image/neutral_01_289_8446.jpg
+1
+368 276 395 395
+../data/image/sad_03_216_1037.jpg
+1
+290 238 429 429
+../data/image/disgust_07_309_0637.jpg
+1
+382 269 382 382
+../data/image/sad_03_384_2426.jpg
+1
+371 267 382 382
+../data/image/anger_05_250_4269.jpg
+1
+364 296 391 391
+../data/image/neutral_01_252_4485.jpg
+1
+350 300 347 347
+../data/image/surprise_06_304_0090.jpg
+1
+398 246 362 362
+../data/image/happy_02_393_3457.jpg
+1
+335 227 405 405
+../data/image/surprise_06_195_8760.jpg
+1
+328 273 410 410
+../data/image/surprise_06_135_4920.jpg
+1
+345 184 461 461
+../data/image/fear_08_142_5325.jpg
+1
+406 160 479 479
+../data/image/neutral_01_256_4921.jpg
+1
+348 209 432 432
+../data/image/fear_08_273_6819.jpg
+1
+376 213 443 443
+../data/image/anger_05_135_4915.jpg
+1
+352 236 422 422
+../data/image/anger_05_392_3363.jpg
+1
+315 268 393 393
+../data/image/surprise_06_288_8347.jpg
+1
+254 238 421 421
+../data/image/anger_05_349_4550.jpg
+1
+276 254 390 390
+../data/image/happy_02_350_4653.jpg
+1
+404 237 372 372
+../data/image/disgust_07_347_4346.jpg
+1
+385 257 359 359
+../data/image/surprise_06_241_3949.jpg
+1
+282 214 460 460
+../data/image/surprise_06_210_0452.jpg
+1
+395 243 384 384
+../data/image/neutral_01_119_3348.jpg
+1
+346 172 435 435
+../data/image/happy_02_190_8094.jpg
+1
+434 224 392 392
+../data/image/fear_08_285_8030.jpg
+1
+321 213 378 378
+../data/image/neutral_01_303_9920.jpg
+1
+457 279 321 321
+../data/image/neutral_01_188_7828.jpg
+1
+334 249 399 399
+../data/image/disgust_07_357_0023.jpg
+1
+340 283 347 347
+../data/image/disgust_07_118_3263.jpg
+1
+297 208 430 430
+../data/image/sad_03_128_4168.jpg
+1
+355 186 465 465
+../data/image/happy_02_343_3905.jpg
+1
+375 233 377 377
+../data/image/sad_03_180_7252.jpg
+1
+308 217 438 438
+../data/image/disgust_07_233_3039.jpg
+1
+398 259 377 377
+../data/image/fear_08_353_4986.jpg
+1
+425 184 429 429
+../data/image/surprise_06_388_2957.jpg
+1
+369 289 344 344
+../data/image/anger_05_380_2113.jpg
+1
+347 275 382 382
+../data/image/fear_08_314_1149.jpg
+1
+390 239 383 383
+../data/image/happy_02_376_1684.jpg
+1
+344 246 346 346
+../data/image/happy_02_303_9922.jpg
+1
+454 302 323 323
+../data/image/disgust_07_222_1739.jpg
+1
+318 240 395 395
+../data/image/fear_08_213_0699.jpg
+1
+392 204 434 434
+../data/image/sad_03_114_2830.jpg
+1
+320 201 459 459
+../data/image/neutral_01_350_4651.jpg
+1
+406 229 364 364
+../data/image/anger_05_295_9094.jpg
+1
+332 311 375 375
+../data/image/sad_03_284_7901.jpg
+1
+359 227 417 417
+../data/image/disgust_07_216_1049.jpg
+1
+335 244 395 395
+../data/image/anger_05_194_8637.jpg
+1
+409 317 395 395
+../data/image/disgust_07_367_0954.jpg
+1
+418 228 388 388
+../data/image/happy_02_256_4923.jpg
+1
+322 232 454 454
+../data/image/happy_02_322_1905.jpg
+1
+350 296 365 365
+../data/image/neutral_01_181_6812.jpg
+1
+411 219 422 422
+../data/image/happy_02_333_2843.jpg
+1
+383 247 395 395
+../data/image/happy_02_252_4487.jpg
+1
+339 289 353 353
+../data/image/sad_03_273_6804.jpg
+1
+416 286 381 381
+../data/image/surprise_06_331_2650.jpg
+1
+326 267 380 380
+../data/image/fear_08_366_0857.jpg
+1
+312 272 374 374
+../data/image/neutral_01_393_3455.jpg
+1
+354 215 395 395
+../data/image/happy_02_251_4371.jpg
+1
+414 279 353 353
+../data/image/disgust_07_377_1803.jpg
+1
+314 248 377 377
+../data/image/neutral_01_305_0181.jpg
+1
+395 274 338 338
+../data/image/surprise_06_187_7703.jpg
+1
+318 196 455 455
+../data/image/disgust_07_201_9375.jpg
+1
+345 238 416 416
+../data/image/disgust_07_206_9884.jpg
+1
+414 199 428 428
+../data/image/sad_03_200_9241.jpg
+1
+397 244 438 438
+../data/image/anger_05_195_8757.jpg
+1
+346 336 320 320
+../data/image/happy_02_113_2719.jpg
+1
+352 169 472 472
+../data/image/neutral_01_177_6412.jpg
+1
+343 224 431 431
+../data/image/fear_08_122_3590.jpg
+1
+309 206 442 442
+../data/image/happy_02_336_3160.jpg
+1
+406 263 372 372
+../data/image/surprise_06_260_5362.jpg
+1
+291 242 439 439
+../data/image/sad_03_300_9615.jpg
+1
+350 247 386 386
+../data/image/fear_08_378_1909.jpg
+1
+375 224 411 411
+../data/image/neutral_01_198_8993.jpg
+1
+340 254 372 372
+../data/image/sad_03_375_1582.jpg
+1
+383 245 363 363
+../data/image/disgust_07_187_7707.jpg
+1
+329 239 424 424
+../data/image/happy_02_144_5168.jpg
+1
+273 168 503 503
+../data/image/sad_03_285_8011.jpg
+1
+321 275 373 373
+../data/image/surprise_06_206_9880.jpg
+1
+420 216 423 423
+../data/image/happy_02_334_2952.jpg
+1
+383 250 376 376
+../data/image/surprise_06_281_7581.jpg
+1
+298 248 408 408
+../data/image/neutral_01_207_0035.jpg
+1
+313 238 403 403
+../data/image/disgust_07_256_4940.jpg
+1
+391 267 391 391
+../data/image/anger_05_188_7844.jpg
+1
+288 254 444 444
+../data/image/sad_03_177_6419.jpg
+1
+313 220 438 438
+../data/image/anger_05_231_2754.jpg
+1
+355 293 356 356
+../data/image/neutral_01_178_6546.jpg
+1
+349 255 399 399
+../data/image/happy_02_367_0936.jpg
+1
+371 243 344 344
+../data/image/fear_08_211_0581.jpg
+1
+225 230 435 435
+../data/image/sad_03_310_0727.jpg
+1
+406 232 353 353
+../data/image/neutral_01_373_1260.jpg
+1
+318 227 380 380
+../data/image/fear_08_311_0843.jpg
+1
+371 275 379 379
+../data/image/surprise_06_132_4601.jpg
+1
+255 226 483 483
+../data/image/sad_03_208_0181.jpg
+1
+247 228 413 413
+../data/image/neutral_01_284_7894.jpg
+1
+397 218 354 354
+../data/image/happy_02_121_3475.jpg
+1
+269 238 435 435
+../data/image/disgust_07_260_5367.jpg
+1
+359 256 385 385
+../data/image/surprise_06_127_4085.jpg
+1
+345 219 468 468
+../data/image/surprise_06_301_9724.jpg
+1
+320 240 406 406
+../data/image/anger_05_215_0917.jpg
+1
+305 281 419 419
+../data/image/happy_02_208_0175.jpg
+1
+250 246 396 396
+../data/image/fear_08_202_9378.jpg
+1
+314 208 434 434
+../data/image/neutral_01_210_0436.jpg
+1
+349 252 411 411
+../data/image/disgust_07_221_1623.jpg
+1
+319 266 413 413
+../data/image/disgust_07_132_4605.jpg
+1
+290 256 421 421
+../data/image/surprise_06_386_2750.jpg
+1
+331 273 379 379
+../data/image/surprise_06_254_4719.jpg
+1
+399 229 456 456
+../data/image/surprise_06_215_0922.jpg
+1
+262 172 449 449
+../data/image/disgust_07_281_7584.jpg
+1
+326 283 366 366
+../data/image/neutral_01_299_9499.jpg
+1
+350 232 415 415
+../data/image/surprise_06_391_3266.jpg
+1
+356 226 384 384
+../data/image/happy_02_199_9118.jpg
+1
+225 222 406 406
+../data/image/disgust_07_294_8999.jpg
+1
+393 276 380 380
+../data/image/disgust_07_363_0546.jpg
+1
+357 242 354 354
+../data/image/disgust_07_140_5458.jpg
+1
+392 181 445 445
+../data/image/disgust_07_225_2081.jpg
+1
+441 297 389 389
+../data/image/anger_05_312_0936.jpg
+1
+391 295 384 384
+../data/image/happy_02_374_1371.jpg
+1
+321 268 389 389
+../data/image/sad_03_188_7834.jpg
+1
+275 265 441 441
+../data/image/surprise_06_235_3267.jpg
+1
+269 223 438 438
+../data/image/anger_05_298_9408.jpg
+1
+347 306 382 382
+../data/image/sad_03_356_5291.jpg
+1
+284 243 352 352
+../data/image/fear_08_280_7478.jpg
+1
+380 211 422 422
+../data/image/anger_05_182_6972.jpg
+1
+410 283 399 399
+../data/image/disgust_07_115_2939.jpg
+1
+241 270 411 411
+../data/image/sad_03_133_4692.jpg
+1
+408 246 410 410
+../data/image/disgust_07_210_0455.jpg
+1
+367 269 410 410
+../data/image/disgust_07_182_6980.jpg
+1
+420 288 373 373
+../data/image/surprise_06_205_9756.jpg
+1
+385 202 452 452
+../data/image/neutral_01_326_2220.jpg
+1
+406 276 349 349
+../data/image/fear_08_255_4839.jpg
+1
+342 245 429 429
+../data/image/surprise_06_367_0951.jpg
+1
+361 222 396 396
+../data/image/sad_03_335_3059.jpg
+1
+409 302 350 350
+../data/image/sad_03_274_6914.jpg
+1
+274 273 370 370
+../data/image/happy_02_172_5716.jpg
+1
+372 222 425 425
+../data/image/surprise_06_363_0542.jpg
+1
+334 220 410 410
+../data/image/happy_02_278_7252.jpg
+1
+266 227 369 369
+../data/image/surprise_06_253_4608.jpg
+1
+399 240 367 367
+../data/image/surprise_06_287_8239.jpg
+1
+303 303 339 339
+../data/image/fear_08_214_0821.jpg
+1
+248 212 428 428
+../data/image/disgust_07_392_3369.jpg
+1
+320 228 386 386
+../data/image/neutral_01_259_5238.jpg
+1
+396 299 343 343
+../data/image/happy_02_133_4689.jpg
+1
+383 246 433 433
+../data/image/anger_05_279_7364.jpg
+1
+400 287 378 378
+../data/image/happy_02_323_2010.jpg
+1
+344 241 369 369
+../data/image/surprise_06_183_7122.jpg
+1
+328 219 457 457
+../data/image/neutral_01_172_5712.jpg
+1
+386 208 420 420
+../data/image/neutral_01_202_9354.jpg
+1
+287 199 422 422
+../data/image/fear_08_113_2734.jpg
+1
+343 165 471 471
+../data/image/anger_05_253_4605.jpg
+1
+395 310 354 354
+../data/image/neutral_01_319_1664.jpg
+1
+344 259 350 350
+../data/image/surprise_06_368_1061.jpg
+1
+363 209 445 445
+../data/image/sad_03_381_2211.jpg
+1
+329 236 373 373
+../data/image/neutral_01_364_0626.jpg
+1
+336 210 432 432
+../data/image/sad_03_338_3371.jpg
+1
+391 271 366 366
+../data/image/sad_03_331_2639.jpg
+1
+327 311 321 321
+../data/image/sad_03_181_6820.jpg
+1
+458 253 378 378
+../data/image/anger_05_367_0948.jpg
+1
+405 285 377 377
+../data/image/sad_03_286_8127.jpg
+1
+409 226 406 406
+../data/image/happy_02_185_7524.jpg
+1
+372 222 437 437
+../data/image/surprise_06_298_9411.jpg
+1
+345 283 365 365
+../data/image/anger_05_351_4766.jpg
+1
+401 265 399 399
+../data/image/happy_02_128_4164.jpg
+1
+347 168 489 489
+../data/image/anger_05_233_3031.jpg
+1
+385 326 353 353
+../data/image/disgust_07_269_6376.jpg
+1
+307 272 431 431
+../data/image/disgust_07_368_1065.jpg
+1
+388 233 382 382
+../data/image/happy_02_237_3492.jpg
+1
+291 242 414 414
+../data/image/neutral_01_174_5987.jpg
+1
+434 268 405 405
+../data/image/sad_03_172_5719.jpg
+1
+426 214 416 416
+../data/image/surprise_06_118_3260.jpg
+1
+276 184 523 523
+../data/image/happy_02_344_4013.jpg
+1
+312 245 373 373
+../data/image/fear_08_360_0228.jpg
+1
+402 267 380 380
+../data/image/disgust_07_148_5578.jpg
+1
+397 257 384 384
+../data/image/neutral_01_331_2632.jpg
+1
+321 291 376 376
+../data/image/sad_03_122_3575.jpg
+1
+281 191 453 453
+../data/image/anger_05_352_4872.jpg
+1
+374 226 404 404
+../data/image/neutral_01_378_1887.jpg
+1
+404 231 402 402
+../data/image/surprise_06_271_6590.jpg
+1
+317 245 434 434
+../data/image/disgust_07_204_9636.jpg
+1
+393 247 408 408
+../data/image/fear_08_362_0441.jpg
+1
+350 257 387 387
+../data/image/anger_05_198_9006.jpg
+1
+321 291 377 377
+../data/image/anger_05_369_1487.jpg
+1
+355 283 387 387
+../data/image/fear_08_313_1049.jpg
+1
+292 238 409 409
+../data/image/happy_02_355_5178.jpg
+1
+263 249 381 381
+../data/image/disgust_07_185_7547.jpg
+1
+442 200 393 393
+../data/image/happy_02_288_8333.jpg
+1
+252 262 397 397
+../data/image/sad_03_387_2843.jpg
+1
+370 209 407 407
+../data/image/surprise_06_309_0634.jpg
+1
+353 242 410 410
+../data/image/happy_02_359_0106.jpg
+1
+367 232 370 370
+../data/image/surprise_06_364_0641.jpg
+1
+347 160 434 434
+../data/image/surprise_06_272_6702.jpg
+1
+279 204 417 417
+../data/image/happy_02_212_0677.jpg
+1
+305 253 441 441
+../data/image/surprise_06_337_3274.jpg
+1
+282 274 410 410
+../data/image/happy_02_213_0677.jpg
+1
+310 218 435 435
+../data/image/disgust_07_195_8763.jpg
+1
+351 268 367 367
+../data/image/disgust_07_331_2651.jpg
+1
+344 287 368 368
+../data/image/surprise_06_218_1280.jpg
+1
+309 293 378 378
+../data/image/sad_03_214_0802.jpg
+1
+257 219 416 416
+../data/image/disgust_07_271_6594.jpg
+1
+337 303 393 393
+../data/image/neutral_01_280_7455.jpg
+1
+384 236 429 429
+../data/image/fear_08_134_4809.jpg
+1
+404 270 399 399
+../data/image/anger_05_218_1277.jpg
+1
+301 286 387 387
+../data/image/happy_02_219_1379.jpg
+1
+373 273 373 373
+../data/image/anger_05_221_1617.jpg
+1
+326 298 407 407
+../data/image/surprise_06_204_9633.jpg
+1
+386 226 438 438
+../data/image/disgust_07_236_3396.jpg
+1
+358 246 421 421
+../data/image/fear_08_240_3848.jpg
+1
+326 262 412 412
+../data/image/surprise_06_362_0433.jpg
+1
+375 285 352 352
+../data/image/neutral_01_257_5026.jpg
+1
+255 209 393 393
+../data/image/surprise_06_223_1856.jpg
+1
+348 207 431 431
+../data/image/surprise_06_185_7542.jpg
+1
+419 172 382 382
+../data/image/sad_03_134_4792.jpg
+1
+373 293 394 394
+../data/image/disgust_07_229_2545.jpg
+1
+319 235 393 393
+../data/image/disgust_07_231_2760.jpg
+1
+359 280 364 364
+../data/image/surprise_06_250_4272.jpg
+1
+360 255 424 424
+../data/image/happy_02_262_5568.jpg
+1
+295 214 407 407
+../data/image/sad_03_390_3151.jpg
+1
+369 291 365 365
+../data/image/disgust_07_362_0437.jpg
+1
+365 272 343 343
+../data/image/neutral_01_336_3158.jpg
+1
+417 267 364 364
+../data/image/neutral_01_349_4538.jpg
+1
+296 218 363 363
+../data/image/neutral_01_255_4814.jpg
+1
+365 257 357 357
+../data/image/surprise_06_193_8515.jpg
+1
+349 210 466 466
+../data/image/disgust_07_218_1285.jpg
+1
+257 306 396 396
+../data/image/surprise_06_357_0021.jpg
+1
+344 273 382 382
+../data/image/anger_05_241_3946.jpg
+1
+313 264 385 385
+../data/image/happy_02_331_2633.jpg
+1
+332 282 375 375
+../data/image/disgust_07_183_7127.jpg
+1
+354 237 410 410
+../data/image/happy_02_243_4153.jpg
+1
+310 230 427 427
+../data/image/disgust_07_302_9831.jpg
+1
+384 279 367 367
+../data/image/anger_05_210_0449.jpg
+1
+396 292 370 370
+../data/image/happy_02_220_1490.jpg
+1
+346 255 403 403
+../data/image/fear_08_390_3166.jpg
+1
+368 290 339 339
+../data/image/happy_02_335_3057.jpg
+1
+416 283 360 360
+../data/image/fear_08_365_0753.jpg
+1
+327 195 425 425
+../data/image/disgust_07_257_5045.jpg
+1
+254 256 379 379
+../data/image/happy_02_180_7249.jpg
+1
+343 243 394 394
+../data/image/fear_08_375_1599.jpg
+1
+365 250 424 424
+../data/image/anger_05_209_0334.jpg
+1
+431 345 381 381
+../data/image/disgust_07_298_9414.jpg
+1
+343 285 382 382
+../data/image/surprise_06_175_6146.jpg
+1
+206 151 449 449
+../data/image/neutral_01_190_8092.jpg
+1
+440 244 375 375
+../data/image/neutral_01_229_2526.jpg
+1
+258 184 485 485
+../data/image/surprise_06_269_6373.jpg
+1
+305 277 408 408
+../data/image/sad_03_211_0564.jpg
+1
+261 259 396 396
+../data/image/surprise_06_347_4344.jpg
+1
+372 247 379 379
+../data/image/surprise_06_207_0056.jpg
+1
+319 254 437 437
+../data/image/fear_08_289_8468.jpg
+1
+348 274 409 409
+../data/image/sad_03_370_1163.jpg
+1
+315 216 421 421
+../data/image/neutral_01_343_3903.jpg
+1
+376 241 371 371
+../data/image/sad_03_292_8775.jpg
+1
+351 256 369 369
+../data/image/disgust_07_235_3272.jpg
+1
+270 229 427 427
+../data/image/surprise_06_307_0416.jpg
+1
+407 252 378 378
+../data/image/sad_03_130_4377.jpg
+1
+384 243 412 412
+../data/image/happy_02_306_0288.jpg
+1
+435 314 319 319
+../data/image/disgust_07_349_4559.jpg
+1
+290 250 378 378
+../data/image/neutral_01_273_6799.jpg
+1
+424 271 381 381
+../data/image/sad_03_119_3353.jpg
+1
+358 195 437 437
+../data/image/anger_05_222_1732.jpg
+1
+339 239 389 389
+../data/image/fear_08_208_0199.jpg
+1
+285 224 400 400
+../data/image/neutral_01_376_1682.jpg
+1
+359 245 335 335
+../data/image/neutral_01_122_3569.jpg
+1
+293 179 443 443
+../data/image/disgust_07_238_3612.jpg
+1
+280 227 451 451
+../data/image/sad_03_322_1908.jpg
+1
+374 311 306 306
+../data/image/sad_03_141_5033.jpg
+1
+229 284 414 414
+../data/image/sad_03_340_3583.jpg
+1
+387 250 416 416
+../data/image/surprise_06_129_4276.jpg
+1
+340 152 507 507
+../data/image/sad_03_234_3146.jpg
+1
+371 234 417 417
+../data/image/sad_03_202_9360.jpg
+1
+311 208 451 451
+../data/image/anger_05_118_3256.jpg
+1
+306 259 448 448
+../data/image/sad_03_379_2000.jpg
+1
+405 268 395 395
+../data/image/sad_03_306_0295.jpg
+1
+429 267 370 370
+../data/image/fear_08_300_9630.jpg
+1
+345 252 379 379
+../data/image/sad_03_268_6255.jpg
+1
+317 232 386 386
+../data/image/surprise_06_242_4056.jpg
+1
+308 272 386 386
+../data/image/fear_08_340_3601.jpg
+1
+392 236 411 411
+../data/image/happy_02_299_9501.jpg
+1
+364 254 375 375
+../data/image/disgust_07_228_2427.jpg
+1
+336 269 357 357
+../data/image/neutral_01_344_4010.jpg
+1
+318 258 369 369
+../data/image/neutral_01_243_4151.jpg
+1
+300 218 426 426
+../data/image/neutral_01_322_1903.jpg
+1
+355 293 360 360
+../data/image/anger_05_176_6283.jpg
+1
+441 291 390 390
+../data/image/surprise_06_131_4494.jpg
+1
+337 215 445 445
+../data/image/happy_02_383_2316.jpg
+1
+421 278 306 306
+../data/image/happy_02_378_1890.jpg
+1
+404 232 402 402
+../data/image/disgust_07_341_3702.jpg
+1
+381 249 377 377
+../data/image/happy_02_255_4816.jpg
+1
+366 265 367 367
+../data/image/sad_03_144_5171.jpg
+1
+298 166 454 454
+../data/image/sad_03_280_7460.jpg
+1
+367 225 444 444
+../data/image/anger_05_131_4489.jpg
+1
+355 256 399 399
+../data/image/disgust_07_272_6705.jpg
+1
+366 253 401 401
+../data/image/disgust_07_301_9727.jpg
+1
+340 242 361 361
+../data/image/sad_03_212_0680.jpg
+1
+335 274 379 379
+../data/image/sad_03_230_2642.jpg
+1
+286 252 396 396
+../data/image/disgust_07_290_8572.jpg
+1
+315 270 354 354
+../data/image/happy_02_177_6414.jpg
+1
+366 208 444 444
+../data/image/sad_03_213_0680.jpg
+1
+306 266 449 449
+../data/image/fear_08_234_3165.jpg
+1
+333 185 483 483
+../data/image/disgust_07_295_9100.jpg
+1
+326 256 373 373
+../data/image/surprise_06_229_2543.jpg
+1
+305 200 436 436
+../data/image/surprise_06_221_1620.jpg
+1
+304 260 446 446
+../data/image/surprise_06_377_1801.jpg
+1
+363 253 352 352
+../data/image/happy_02_198_8995.jpg
+1
+349 260 372 372
+../data/image/sad_03_255_4821.jpg
+1
+333 254 412 412
+../data/image/sad_03_393_3464.jpg
+1
+1458 1167 619 619
+../data/image/anger_05_294_8993.jpg
+1
+392 299 387 387
+../data/image/happy_02_280_7457.jpg
+1
+373 203 443 443
+../data/image/happy_02_189_7958.jpg
+1
+418 311 403 403
+../data/image/fear_08_338_3386.jpg
+1
+381 245 388 388
+../data/image/disgust_07_386_2753.jpg
+1
+335 285 359 359
+../data/image/fear_08_274_6931.jpg
+1
+183 238 450 450
+../data/image/surprise_06_277_7158.jpg
+1
+322 221 380 380
+../data/image/disgust_07_391_3270.jpg
+1
+390 285 335 335
+../data/image/neutral_01_173_5843.jpg
+1
+351 227 424 424
+../data/image/neutral_01_175_6122.jpg
+1
+226 202 426 426
+../data/image/neutral_01_359_0104.jpg
+1
+383 243 375 375
+../data/image/neutral_01_121_3473.jpg
+1
+263 239 428 428
+../data/image/anger_05_361_0324.jpg
+1
+315 285 379 379
+../data/image/neutral_01_212_0675.jpg
+1
+320 176 463 463
+../data/image/fear_08_227_2316.jpg
+1
+459 211 382 382
+../data/image/neutral_01_213_0675.jpg
+1
+341 234 409 409
+../data/image/disgust_07_250_4275.jpg
+1
+379 273 395 395
+../data/image/fear_08_126_3984.jpg
+1
+288 175 494 494
+../data/image/surprise_06_339_3486.jpg
+1
+426 254 362 362
+../data/image/anger_05_254_4716.jpg
+1
+439 295 377 377
+../data/image/neutral_01_208_0173.jpg
+1
+235 226 456 456
+../data/image/anger_05_304_0088.jpg
+1
+405 291 341 341
+../data/image/neutral_01_288_8331.jpg
+1
+241 239 395 395
+../data/image/fear_08_212_0701.jpg
+1
+299 171 424 424
+../data/image/sad_03_276_7040.jpg
+1
+341 245 398 398
+../data/image/surprise_06_240_3838.jpg
+1
+358 276 366 366
+../data/image/disgust_07_277_7160.jpg
+1
+330 269 373 373
+../data/image/sad_03_175_6129.jpg
+1
+182 236 410 410
+../data/image/fear_08_284_7919.jpg
+1
+344 204 413 413
+../data/image/sad_03_121_3478.jpg
+1
+270 231 428 428
+../data/image/neutral_01_320_1776.jpg
+1
+354 281 366 366
+../data/image/happy_02_181_6815.jpg
+1
+435 236 426 426
+../data/image/happy_02_239_3710.jpg
+1
+308 250 421 421
+../data/image/disgust_07_380_2119.jpg
+1
+386 249 374 374
+../data/image/anger_05_197_8878.jpg
+1
+219 279 406 406
+../data/image/anger_05_196_8878.jpg
+1
+328 258 418 418
+../data/image/anger_05_123_3664.jpg
+1
+292 245 455 455
+../data/image/surprise_06_312_0939.jpg
+1
+381 278 368 368
+../data/image/neutral_01_261_5458.jpg
+1
+255 254 398 398
+../data/image/anger_05_357_0017.jpg
+1
+332 298 351 351
+../data/image/fear_08_178_6568.jpg
+1
+392 191 441 441
+../data/image/neutral_01_237_3490.jpg
+1
+285 234 409 409
+../data/image/neutral_01_335_3054.jpg
+1
+407 275 355 355
+../data/image/neutral_01_370_1157.jpg
+1
+355 241 361 361
+../data/image/anger_05_332_2751.jpg
+1
+315 283 343 343
+../data/image/fear_08_144_5190.jpg
+1
+311 104 459 459
+../data/image/surprise_06_318_1577.jpg
+1
+373 209 411 411
+../data/image/happy_02_319_1666.jpg
+1
+331 267 351 351
+../data/image/fear_08_294_9002.jpg
+1
+385 257 390 390
+../data/image/surprise_06_257_5042.jpg
+1
+224 228 442 442
+../data/image/disgust_07_288_8352.jpg
+1
+280 285 380 380
+../data/image/anger_05_216_1043.jpg
+1
+300 277 425 425
+../data/image/sad_03_283_7787.jpg
+1
+287 228 409 409
+../data/image/anger_05_287_8236.jpg
+1
+293 309 356 356
+../data/image/anger_05_377_1799.jpg
+1
+368 271 343 343
+../data/image/happy_02_356_5288.jpg
+1
+1177 852 1119 1119
+../data/image/happy_02_315_1238.jpg
+1
+382 290 347 347
+../data/image/anger_05_225_2075.jpg
+1
+430 312 393 393
+../data/image/neutral_01_323_2006.jpg
+1
+363 246 315 315
+../data/image/surprise_06_327_2335.jpg
+1
+402 246 364 364
+../data/image/anger_05_115_2932.jpg
+1
+248 291 414 414
+../data/image/surprise_06_341_3698.jpg
+1
+379 214 401 401
+../data/image/happy_02_202_9356.jpg
+1
+318 202 431 431
+../data/image/sad_03_320_1782.jpg
+1
+359 295 320 320
+../data/image/surprise_06_228_2422.jpg
+1
+312 233 378 378
+../data/image/happy_02_127_4068.jpg
+1
+350 249 435 435
+../data/image/sad_03_348_4437.jpg
+1
+406 272 328 328
+../data/image/surprise_06_144_5184.jpg
+1
+300 67 488 488
+../data/image/sad_03_369_1478.jpg
+1
+356 265 395 395
+../data/image/sad_03_240_3827.jpg
+1
+318 245 416 416
+../data/image/neutral_01_362_0418.jpg
+1
+371 272 349 349
+../data/image/sad_03_391_3257.jpg
+1
+389 287 316 316
+../data/image/disgust_07_113_2732.jpg
+1
+327 201 434 434
+../data/image/anger_05_334_2960.jpg
+1
+395 275 361 361
+../data/image/happy_02_337_3262.jpg
+1
+296 287 359 359
+../data/image/neutral_01_264_5810.jpg
+1
+273 202 436 436
+../data/image/anger_05_258_5145.jpg
+1
+420 246 409 409
+../data/image/sad_03_277_7147.jpg
+1
+294 242 431 431
+../data/image/disgust_07_384_2438.jpg
+1
+366 238 375 375
+../data/image/neutral_01_369_1473.jpg
+1
+370 286 345 345
+../data/image/happy_02_271_6579.jpg
+1
+328 260 413 413
+../data/image/neutral_01_389_3045.jpg
+1
+373 285 315 315
+../data/image/fear_08_148_5581.jpg
+1
+371 290 440 440
+../data/image/sad_03_301_9715.jpg
+1
+330 254 374 374
+../data/image/surprise_06_283_7798.jpg
+1
+267 213 433 433
+../data/image/fear_08_326_2241.jpg
+1
+449 267 348 348
+../data/image/neutral_01_182_6955.jpg
+1
+376 237 449 449
+../data/image/fear_08_303_9942.jpg
+1
+461 234 341 341
+../data/image/neutral_01_314_1129.jpg
+1
+400 240 385 385
+../data/image/fear_08_206_9887.jpg
+1
+417 167 447 447
+../data/image/fear_08_290_8577.jpg
+1
+318 216 422 422
+../data/image/anger_05_350_4663.jpg
+1
+403 244 403 403
+../data/image/sad_03_279_7358.jpg
+1
+409 267 381 381
+../data/image/neutral_01_197_8865.jpg
+1
+228 194 453 453
+../data/image/neutral_01_196_8865.jpg
+1
+333 246 421 421
+../data/image/surprise_06_274_6925.jpg
+1
+236 281 415 415
+../data/image/anger_05_344_4024.jpg
+1
+320 337 352 352
+../data/image/neutral_01_293_8875.jpg
+1
+402 254 391 391
+../data/image/surprise_06_116_3026.jpg
+1
+229 216 498 498
+../data/image/anger_05_286_8133.jpg
+1
+381 282 414 414
+../data/image/disgust_07_180_7266.jpg
+1
+372 247 366 366
+../data/image/fear_08_256_4943.jpg
+1
+377 263 403 403
+../data/image/sad_03_349_4543.jpg
+1
+295 213 407 407
+../data/image/anger_05_172_5731.jpg
+1
+358 230 412 412
+../data/image/surprise_06_366_0850.jpg
+1
+339 256 391 391
+../data/image/anger_05_278_7261.jpg
+1
+293 244 425 425
+../data/image/neutral_01_279_7353.jpg
+1
+384 252 386 386
+../data/image/happy_02_110_2528.jpg
+1
+301 204 428 428
+../data/image/neutral_01_266_6033.jpg
+1
+335 239 446 446
+../data/image/happy_02_388_2944.jpg
+1
+370 269 332 332
+../data/image/happy_02_183_7108.jpg
+1
+319 227 413 413
+../data/image/fear_08_339_3492.jpg
+1
+435 249 408 408
+../data/image/sad_03_318_1568.jpg
+1
+394 226 365 365
+../data/image/happy_02_148_5556.jpg
+1
+377 271 419 419
+../data/image/disgust_07_181_6838.jpg
+1
+436 231 408 408
+../data/image/fear_08_260_5370.jpg
+1
+319 260 411 411
+../data/image/anger_05_364_0638.jpg
+1
+348 258 434 434
+../data/image/neutral_01_327_2320.jpg
+1
+406 262 333 333
+../data/image/happy_02_232_2899.jpg
+1
+339 220 440 440
+../data/image/disgust_07_311_0840.jpg
+1
+357 270 379 379
+../data/image/happy_02_269_6359.jpg
+1
+316 283 386 386
+../data/image/sad_03_182_6963.jpg
+1
+432 263 361 361
+../data/image/fear_08_215_0931.jpg
+1
+306 244 416 416
+../data/image/sad_03_135_4907.jpg
+1
+312 213 436 436
+../data/image/neutral_01_318_1562.jpg
+1
+382 229 367 367
+../data/image/surprise_06_180_7263.jpg
+1
+353 201 407 407
+../data/image/happy_02_242_4042.jpg
+1
+301 227 414 414
+../data/image/anger_05_211_0570.jpg
+1
+282 278 383 383
+../data/image/anger_05_243_4164.jpg
+1
+309 256 426 426
+../data/image/surprise_06_111_2638.jpg
+1
+302 136 518 518
+../data/image/surprise_06_299_9515.jpg
+1
+392 267 371 371
+../data/image/anger_05_174_5999.jpg
+1
+415 289 386 386
+../data/image/neutral_01_387_2838.jpg
+1
+429 242 356 356
+../data/image/disgust_07_126_3981.jpg
+1
+297 203 467 467
+../data/image/sad_03_115_2925.jpg
+1
+241 227 430 430
+../data/image/disgust_07_234_3161.jpg
+1
+383 207 400 400
+../data/image/disgust_07_346_4245.jpg
+1
+379 276 354 354
+../data/image/happy_02_392_3352.jpg
+1
+313 243 350 350
+../data/image/surprise_06_322_1917.jpg
+1
+360 287 385 385
+../data/image/sad_03_382_2636.jpg
+1
+352 228 416 416
+../data/image/sad_03_281_7567.jpg
+1
+345 265 370 370
+../data/image/sad_03_226_2179.jpg
+1
+333 309 389 389
+../data/image/happy_02_179_6678.jpg
+1
+325 273 425 425
+../data/image/neutral_01_250_4258.jpg
+1
+354 219 401 401
+../data/image/anger_05_353_4976.jpg
+1
+402 225 416 416
+../data/image/sad_03_259_5243.jpg
+1
+408 284 392 392
+../data/image/anger_05_270_6476.jpg
+1
+343 253 429 429
+../data/image/neutral_01_253_4592.jpg
+1
+355 190 415 415
+../data/image/anger_05_393_3466.jpg
+1
+350 206 400 400
+../data/image/fear_08_296_9209.jpg
+1
+384 196 391 391
+../data/image/happy_02_379_1997.jpg
+1
+422 250 348 348
+../data/image/neutral_01_311_0823.jpg
+1
+352 294 340 340
+../data/image/surprise_06_336_3172.jpg
+1
+390 257 381 381
+../data/image/sad_03_313_1032.jpg
+1
+272 247 405 405
+../data/image/fear_08_135_4930.jpg
+1
+318 209 429 429
+../data/image/neutral_01_226_2172.jpg
+1
+352 289 363 363
+../data/image/sad_03_339_3473.jpg
+1
+433 274 345 345
+../data/image/disgust_07_353_4984.jpg
+1
+418 227 425 425
+../data/image/neutral_01_346_4226.jpg
+1
+372 264 366 366
+../data/image/happy_02_263_5690.jpg
+1
+336 232 375 375
+../data/image/sad_03_253_4599.jpg
+1
+371 221 401 401
+../data/image/disgust_07_285_8024.jpg
+1
+419 270 384 384
+../data/image/disgust_07_199_9133.jpg
+1
+256 255 395 395
+../data/image/surprise_06_300_9624.jpg
+1
+336 264 404 404
+../data/image/sad_03_260_5353.jpg
+1
+323 234 394 394
+../data/image/sad_03_311_0828.jpg
+1
+355 286 379 379
+../data/image/surprise_06_373_1273.jpg
+1
+333 244 394 394
+../data/image/anger_05_142_5314.jpg
+1
+378 246 451 451
+../data/image/sad_03_352_4865.jpg
+1
+374 232 402 402
+../data/image/surprise_06_213_0689.jpg
+1
+312 212 408 408
+../data/image/neutral_01_263_5686.jpg
+1
+1352 786 852 852
+../data/image/surprise_06_365_0747.jpg
+1
+333 245 387 387
+../data/image/surprise_06_280_7469.jpg
+1
+396 231 398 398
+../data/image/anger_05_121_3486.jpg
+1
+271 284 429 429
+../data/image/happy_02_309_0621.jpg
+1
+376 253 371 371
+../data/image/anger_05_200_9247.jpg
+1
+424 283 422 422
+../data/image/sad_03_195_8751.jpg
+1
+320 286 382 382
+../data/image/neutral_01_223_1842.jpg
+1
+336 239 402 402
+../data/image/disgust_07_310_0739.jpg
+1
+431 270 338 338
+../data/image/disgust_07_266_6053.jpg
+1
+392 225 396 396
+../data/image/anger_05_285_8017.jpg
+1
+306 293 376 376
+../data/image/sad_03_206_9870.jpg
+1
+394 209 442 442
+../data/image/neutral_01_379_1995.jpg
+1
+413 231 355 355
+../data/image/anger_05_192_8382.jpg
+1
+277 284 429 429
+../data/image/sad_03_294_8987.jpg
+1
+426 275 335 335
+../data/image/disgust_07_219_1396.jpg
+1
+347 245 410 410
+../data/image/fear_08_228_2435.jpg
+1
+293 235 398 398
+../data/image/disgust_07_133_4707.jpg
+1
+410 236 418 418
+../data/image/disgust_07_306_0307.jpg
+1
+462 252 345 345
+../data/image/surprise_06_383_2328.jpg
+1
+2046 1512 553 553
+../data/image/fear_08_175_6152.jpg
+1
+220 167 432 432
+../data/image/surprise_06_285_8022.jpg
+1
+297 226 415 415
+../data/image/disgust_07_327_2341.jpg
+1
+418 265 335 335
+../data/image/fear_08_347_4350.jpg
+1
+350 227 415 415
+../data/image/neutral_01_392_3350.jpg
+1
+311 246 350 350
+../data/image/neutral_01_282_7677.jpg
+1
+314 225 416 416
+../data/image/anger_05_328_2437.jpg
+1
+311 296 342 342
+../data/image/neutral_01_242_4040.jpg
+1
+308 232 400 400
+../data/image/surprise_06_261_5473.jpg
+1
+249 240 449 449
+../data/image/neutral_01_123_3652.jpg
+1
+265 230 459 459
+../data/image/fear_08_331_2654.jpg
+1
+349 289 324 324
+../data/image/happy_02_272_6688.jpg
+1
+332 227 393 393
+../data/image/fear_08_195_8766.jpg
+1
+342 278 382 382
+../data/image/sad_03_293_8882.jpg
+1
+395 261 390 390
+../data/image/disgust_07_261_5477.jpg
+1
+274 264 403 403
+../data/image/anger_05_114_2836.jpg
+1
+326 257 440 440
+../data/image/fear_08_386_2755.jpg
+1
+335 293 360 360
+../data/image/happy_02_368_1048.jpg
+1
+363 243 403 403
+../data/image/sad_03_117_3129.jpg
+1
+315 239 420 420
+../data/image/surprise_06_126_3978.jpg
+1
+298 219 462 462
+../data/image/sad_03_314_1135.jpg
+1
+397 235 377 377
+../data/image/anger_05_319_1678.jpg
+1
+357 272 339 339
+../data/image/happy_02_377_1787.jpg
+1
+364 238 352 352
+../data/image/anger_05_284_7907.jpg
+1
+397 220 394 394
+../data/image/neutral_01_307_0403.jpg
+1
+401 255 348 348
+../data/image/happy_02_230_2639.jpg
+1
+306 263 356 356
+../data/image/happy_02_327_2323.jpg
+1
+403 278 336 336
+../data/image/surprise_06_346_4242.jpg
+1
+351 252 385 385
+../data/image/sad_03_187_7692.jpg
+1
+321 213 382 382
+../data/image/disgust_07_130_4392.jpg
+1
+436 274 404 404
+../data/image/neutral_01_377_1786.jpg
+1
+354 235 347 347
+../data/image/sad_03_282_7682.jpg
+1
+324 229 405 405
+../data/image/happy_02_365_0735.jpg
+1
+340 255 365 365
+../data/image/neutral_01_228_2408.jpg
+1
+281 242 377 377
+../data/image/anger_05_323_2019.jpg
+1
+368 271 361 361
+../data/image/sad_03_332_2745.jpg
+1
+307 246 355 355
+../data/image/fear_08_304_0097.jpg
+1
+376 257 405 405
+../data/image/fear_08_341_3705.jpg
+1
+365 231 386 386
+../data/image/happy_02_197_8867.jpg
+1
+212 204 456 456
+../data/image/surprise_06_119_3367.jpg
+1
+316 236 486 486
+../data/image/sad_03_302_9817.jpg
+1
+350 261 374 374
+../data/image/happy_02_196_8867.jpg
+1
+338 236 436 436
+../data/image/fear_08_259_5263.jpg
+1
+445 257 393 393
+../data/image/happy_02_345_4128.jpg
+1
+420 282 313 313
+../data/image/neutral_01_117_3123.jpg
+1
+331 228 425 425
+../data/image/happy_02_182_6957.jpg
+1
+379 246 465 465
+../data/image/happy_02_357_0008.jpg
+1
+346 301 305 305
+../data/image/surprise_06_286_8138.jpg
+1
+400 215 388 388
+../data/image/disgust_07_268_6271.jpg
+1
+327 241 383 383
+../data/image/disgust_07_212_0698.jpg
+1
+292 243 427 427
+../data/image/fear_08_203_9509.jpg
+1
+359 242 449 449
+../data/image/disgust_07_390_3163.jpg
+1
+371 295 329 329
+../data/image/anger_05_251_4382.jpg
+1
+420 321 341 341
+../data/image/sad_03_124_3749.jpg
+1
+226 234 453 453
+../data/image/surprise_06_355_5193.jpg
+1
+274 249 414 414
+../data/image/surprise_06_262_5582.jpg
+1
+312 198 429 429
+../data/image/happy_02_264_5812.jpg
+1
+274 202 438 438
+../data/image/sad_03_361_0318.jpg
+1
+299 226 382 382
+../data/image/disgust_07_382_2649.jpg
+1
+365 266 354 354
+../data/image/anger_05_375_1591.jpg
+1
+386 260 401 401
+../data/image/disgust_07_110_2549.jpg
+1
+365 234 406 406
+../data/image/fear_08_302_9834.jpg
+1
+345 235 428 428
+../data/image/anger_05_208_0187.jpg
+1
+286 260 407 407
+../data/image/fear_08_380_2123.jpg
+1
+368 229 381 381
+../data/image/disgust_07_237_3509.jpg
+1
+299 237 396 396
+../data/image/disgust_07_336_3175.jpg
+1
+430 283 367 367
+../data/image/neutral_01_366_0835.jpg
+1
+370 238 356 356
+../data/image/surprise_06_356_5301.jpg
+1
+239 239 361 361
+../data/image/anger_05_173_5860.jpg
+1
+352 255 433 433
+../data/image/fear_08_349_4562.jpg
+1
+283 259 399 399
+../data/image/surprise_06_276_7049.jpg
+1
+337 206 432 432
+../data/image/surprise_06_219_1393.jpg
+1
+374 254 398 398
+../data/image/neutral_01_337_3260.jpg
+1
+305 294 364 364
+../data/image/sad_03_215_0911.jpg
+1
+295 228 427 427
+../data/image/fear_08_238_3615.jpg
+1
+307 233 422 422
+../data/image/neutral_01_361_0313.jpg
+1
+330 242 317 317
+../data/image/surprise_06_306_0302.jpg
+1
+443 254 380 380
+../data/image/sad_03_198_9000.jpg
+1
+302 239 386 386
+../data/image/neutral_01_267_6141.jpg
+1
+307 254 393 393
+../data/image/neutral_01_234_3139.jpg
+1
+359 234 419 419
+../data/image/fear_08_182_6984.jpg
+1
+423 271 390 390
+../data/image/fear_08_282_7699.jpg
+1
+297 207 481 481
+../data/image/disgust_07_117_3144.jpg
+1
+326 214 397 397
+../data/image/fear_08_332_2762.jpg
+1
+335 251 350 350
+../data/image/happy_02_124_3746.jpg
+1
+253 211 438 438
+../data/image/fear_08_183_7132.jpg
+1
+345 218 425 425
+../data/image/happy_02_304_0078.jpg
+1
+391 252 413 413
+../data/image/disgust_07_300_9627.jpg
+1
+360 269 366 366
+../data/image/fear_08_368_1071.jpg
+1
+358 218 422 422
+../data/image/surprise_06_353_4978.jpg
+1
+376 157 463 463
+../data/image/surprise_06_199_9130.jpg
+1
+230 209 424 424
+../data/image/sad_03_222_1723.jpg
+1
+333 223 413 413
+../data/image/surprise_06_227_2310.jpg
+1
+445 207 384 384
+../data/image/fear_08_301_9730.jpg
+1
+327 262 379 379
+../data/image/fear_08_127_4091.jpg
+1
+358 240 455 455
+../data/image/sad_03_140_5443.jpg
+1
+372 243 461 461
+../data/image/sad_03_228_2413.jpg
+1
+296 212 414 414
+../data/image/anger_05_338_3377.jpg
+1
+394 291 361 361
+../data/image/surprise_06_338_3381.jpg
+1
+400 236 378 378
+../data/image/anger_05_381_2217.jpg
+1
+296 251 374 374
+../data/image/anger_05_379_2005.jpg
+1
+404 286 386 386
+../data/image/disgust_07_191_8252.jpg
+1
+411 214 373 373
+../data/image/fear_08_254_4725.jpg
+1
+411 235 425 425
+../data/image/happy_02_266_6035.jpg
+1
+310 221 454 454
+../data/image/neutral_01_388_2942.jpg
+1
+314 256 378 378
+../data/image/sad_03_233_3023.jpg
+1
+371 272 394 394
+../data/image/happy_02_279_7355.jpg
+1
+389 249 394 394
+../data/image/surprise_06_326_2234.jpg
+1
+436 266 358 358
+../data/image/disgust_07_116_3030.jpg
+1
+264 252 444 444
+../data/image/sad_03_351_4760.jpg
+1
+427 276 353 353
+../data/image/fear_08_295_9103.jpg
+1
+325 261 385 385
+../data/image/disgust_07_227_2314.jpg
+1
+442 244 382 382
+../data/image/anger_05_126_3974.jpg
+1
+291 212 481 481
+../data/image/happy_02_316_1343.jpg
+1
+337 187 372 372
+../data/image/sad_03_241_3940.jpg
+1
+284 253 435 435
+../data/image/neutral_01_148_5551.jpg
+1
+290 232 462 462
+../data/image/fear_08_187_7717.jpg
+1
+317 226 450 450
+../data/image/surprise_06_268_6264.jpg
+1
+311 229 426 426
+../data/image/surprise_06_122_3584.jpg
+1
+289 174 475 475
+../data/image/sad_03_118_3252.jpg
+1
+310 228 442 442
+../data/image/surprise_06_217_1162.jpg
+1
+319 198 438 438
+../data/image/fear_08_391_3273.jpg
+1
+360 257 364 364
+../data/image/disgust_07_350_4669.jpg
+1
+419 231 398 398
+../data/image/disgust_07_338_3384.jpg
+1
+390 250 356 356
+../data/image/disgust_07_366_0853.jpg
+1
+357 282 360 360
+../data/image/anger_05_374_1379.jpg
+1
+343 296 380 380
+../data/image/happy_02_318_1564.jpg
+1
+378 239 380 380
+../data/image/fear_08_277_7163.jpg
+1
+336 246 385 385
+../data/image/fear_08_315_1258.jpg
+1
+342 298 349 349
+../data/image/anger_05_378_1900.jpg
+1
+417 254 398 398
+../data/image/happy_02_224_1957.jpg
+1
+293 266 375 375
+../data/image/fear_08_114_2848.jpg
+1
+310 173 479 479
+../data/image/disgust_07_217_1166.jpg
+1
+354 259 404 404
+../data/image/surprise_06_256_4937.jpg
+1
+379 253 416 416
+../data/image/surprise_06_130_4387.jpg
+1
+394 237 472 472
+../data/image/happy_02_351_4756.jpg
+1
+427 246 366 366
+../data/image/happy_02_117_3126.jpg
+1
+315 211 421 421
+../data/image/fear_08_377_1807.jpg
+1
+357 253 338 338
+../data/image/fear_08_185_7552.jpg
+1
+382 168 456 456
+../data/image/happy_02_298_9399.jpg
+1
+312 282 400 400
+../data/image/fear_08_221_1626.jpg
+1
+314 258 419 419
+../data/image/disgust_07_144_5187.jpg
+1
+320 139 401 401
+../data/image/surprise_06_270_6479.jpg
+1
+318 244 417 417
+../data/image/anger_05_289_8459.jpg
+1
+378 332 338 338
+../data/image/anger_05_336_3169.jpg
+1
+409 306 350 350
+../data/image/disgust_07_173_5868.jpg
+1
+368 250 421 421
+../data/image/surprise_06_117_3141.jpg
+1
+281 169 470 470
+../data/image/anger_05_177_6427.jpg
+1
+346 256 440 440
+../data/image/anger_05_314_1140.jpg
+1
+411 243 365 365
+../data/image/disgust_07_125_3877.jpg
+1
+287 224 416 416
+../data/image/fear_08_225_2084.jpg
+1
+433 269 412 412
+../data/image/anger_05_265_5931.jpg
+1
+366 249 426 426
+../data/image/happy_02_311_0825.jpg
+1
+354 295 342 342
+../data/image/happy_02_191_8230.jpg
+1
+332 214 461 461
+../data/image/anger_05_383_2325.jpg
+1
+407 291 340 340
+../data/image/neutral_01_309_0619.jpg
+1
+375 233 369 369
+../data/image/disgust_07_270_6482.jpg
+1
+314 189 447 447
+../data/image/anger_05_390_3157.jpg
+1
+361 289 374 374
+../data/image/happy_02_226_2174.jpg
+1
+310 303 353 353
+../data/image/surprise_06_125_3873.jpg
+1
+260 193 474 474
+../data/image/anger_05_363_0539.jpg
+1
+311 249 435 435
+../data/image/anger_05_360_0218.jpg
+1
+360 290 364 364
+../data/image/surprise_06_189_7976.jpg
+1
+447 253 420 420
+../data/image/fear_08_226_2200.jpg
+1
+345 274 399 399
+../data/image/happy_02_313_1029.jpg
+1
+296 253 352 352
+../data/image/anger_05_273_6810.jpg
+1
+396 239 406 406
+../data/image/fear_08_288_8353.jpg
+1
+265 241 392 392
+../data/image/surprise_06_121_3489.jpg
+1
+256 223 459 459
+../data/image/anger_05_213_0686.jpg
+1
+336 263 373 373
+../data/image/happy_02_362_0421.jpg
+1
+375 270 353 353
+../data/image/fear_08_199_9140.jpg
+1
+251 219 416 416
+../data/image/anger_05_280_7466.jpg
+1
+385 280 419 419
+../data/image/fear_08_357_0027.jpg
+1
+300 284 413 413
+../data/image/neutral_01_203_9485.jpg
+1
+366 229 433 433
+../data/image/happy_02_223_1844.jpg
+1
+343 230 418 418
+../data/image/disgust_07_142_5321.jpg
+1
+386 191 457 457
+../data/image/happy_02_250_4260.jpg
+1
+363 269 407 407
+../data/image/anger_05_255_4827.jpg
+1
+330 295 417 417
+../data/image/happy_02_253_4596.jpg
+1
+355 192 414 414
+../data/image/happy_02_369_1476.jpg
+1
+383 285 350 350
+../data/image/neutral_01_260_5348.jpg
+1
+317 228 415 415
+../data/image/neutral_01_339_3468.jpg
+1
+431 265 345 345
+../data/image/happy_02_176_6271.jpg
+1
+392 227 434 434
+../data/image/disgust_07_278_7269.jpg
+1
+302 241 413 413
+../data/image/sad_03_272_6691.jpg
+1
+312 233 417 417
+../data/image/happy_02_193_8498.jpg
+1
+354 240 442 442
+../data/image/neutral_01_351_4754.jpg
+1
+427 252 360 360
+../data/image/sad_03_368_1051.jpg
+1
+366 238 406 406
+../data/image/disgust_07_172_5739.jpg
+1
+391 204 412 412
+../data/image/fear_08_272_6711.jpg
+1
+319 225 438 438
+../data/image/sad_03_110_2532.jpg
+1
+327 205 429 429
+../data/image/sad_03_380_2107.jpg
+1
+353 234 372 372
+../data/image/sad_03_209_0324.jpg
+1
+381 262 422 422
+../data/image/anger_05_283_7794.jpg
+1
+291 237 401 401
+../data/image/sad_03_148_5558.jpg
+1
+352 294 411 411
+../data/image/neutral_01_224_1955.jpg
+1
+302 282 364 364
+../data/image/happy_02_123_3654.jpg
+1
+258 225 471 471
+../data/image/fear_08_352_4883.jpg
+1
+382 224 415 415
+../data/image/sad_03_357_0010.jpg
+1
+315 273 404 404
+../data/image/anger_05_234_3154.jpg
+1
+360 233 404 404
+../data/image/disgust_07_119_3370.jpg
+1
+355 239 428 428
+../data/image/sad_03_224_1962.jpg
+1
+283 263 406 406
+../data/image/disgust_07_211_0578.jpg
+1
+313 260 388 388
+../data/image/happy_02_307_0405.jpg
+1
+390 261 357 357
+../data/image/sad_03_345_4131.jpg
+1
+406 288 356 356
+../data/image/neutral_01_365_0733.jpg
+1
+339 251 360 360
+../data/image/disgust_07_381_2224.jpg
+1
+302 228 373 373
+../data/image/surprise_06_303_9935.jpg
+1
+465 243 352 352
+../data/image/happy_02_205_9740.jpg
+1
+351 197 424 424
+../data/image/neutral_01_222_1716.jpg
+1
+407 201 393 393
+../data/image/fear_08_271_6596.jpg
+1
+342 248 415 415
+../data/image/sad_03_287_8230.jpg
+1
+281 303 359 359
+../data/image/sad_03_365_0738.jpg
+1
+349 271 357 357
+../data/image/anger_05_239_3721.jpg
+1
+334 304 363 363
+../data/image/anger_05_340_3590.jpg
+1
+379 295 411 411
+../data/image/sad_03_183_7113.jpg
+1
+283 199 471 471
+../data/image/surprise_06_292_8786.jpg
+1
+343 216 395 395
+../data/image/surprise_06_333_2854.jpg
+1
+383 253 396 396
+../data/image/surprise_06_381_2220.jpg
+1
+307 221 385 385
+../data/image/fear_08_231_2763.jpg
+1
+349 274 384 384
+../data/image/fear_08_364_0647.jpg
+1
+356 216 397 397
+../data/image/sad_03_225_2067.jpg
+1
+434 271 396 396
+../data/image/surprise_06_344_4029.jpg
+1
+290 261 396 396
+../data/image/anger_05_348_4442.jpg
+1
+392 259 387 387
+../data/image/anger_05_111_2634.jpg
+1
+330 272 461 461
+../data/image/disgust_07_365_0750.jpg
+1
+367 263 363 363
+../data/image/anger_05_220_1501.jpg
+1
+376 311 383 383
+../data/image/happy_02_215_0908.jpg
+1
+261 266 434 434
+../data/image/surprise_06_258_5148.jpg
+1
+422 202 388 388
+../data/image/anger_05_310_0733.jpg
+1
+417 255 339 339
+../data/image/anger_05_237_3502.jpg
+1
+300 288 421 421
+../data/image/disgust_07_356_5303.jpg
+1
+289 300 342 342
+../data/image/neutral_01_191_8227.jpg
+1
+335 254 404 404
+../data/image/surprise_06_305_0196.jpg
+1
+371 231 407 407
+../data/image/sad_03_315_1244.jpg
+1
+364 305 340 340
+../data/image/sad_03_127_4073.jpg
+1
+368 236 454 454
+../data/image/fear_08_140_5462.jpg
+1
+342 214 453 453
+../data/image/neutral_01_296_9185.jpg
+1
+407 258 403 403
+../data/image/anger_05_325_2132.jpg
+1
+359 293 338 338
+../data/image/neutral_01_124_3744.jpg
+1
+246 233 428 428
+../data/image/anger_05_178_6559.jpg
+1
+407 251 387 387
+../data/image/sad_03_236_3375.jpg
+1
+329 228 443 443
+../data/image/surprise_06_266_6050.jpg
+1
+381 194 410 410
+../data/image/fear_08_118_3266.jpg
+1
+281 147 457 457
+../data/image/happy_02_361_0315.jpg
+1
+325 237 326 326
+../data/image/surprise_06_390_3161.jpg
+1
+367 273 351 351
+../data/image/sad_03_191_8238.jpg
+1
+396 218 430 430
+../data/image/anger_05_384_2431.jpg
+1
+356 282 386 386
+../data/image/happy_02_267_6143.jpg
+1
+349 282 427 427
+../data/image/anger_05_110_2542.jpg
+1
+348 269 408 408
+../data/image/disgust_07_192_8388.jpg
+1
+324 249 375 375
+../data/image/surprise_06_133_4704.jpg
+1
+390 198 466 466
+../data/image/anger_05_382_2642.jpg
+1
+364 282 352 352
+../data/image/anger_05_276_7046.jpg
+1
+355 249 394 394
+../data/image/fear_08_298_9417.jpg
+1
+333 269 406 406
+../data/image/happy_02_238_3597.jpg
+1
+306 269 366 366
+../data/image/disgust_07_383_2332.jpg
+1
+397 275 350 350
+../data/image/fear_08_310_0744.jpg
+1
+407 215 390 390
+../data/image/surprise_06_200_9250.jpg
+1
+430 237 426 426
+../data/image/fear_08_179_6710.jpg
+1
+430 266 410 410
+../data/image/neutral_01_206_9865.jpg
+1
+388 221 428 428
+../data/image/happy_02_259_5240.jpg
+1
+408 309 346 346
+../data/image/anger_05_230_2648.jpg
+1
+311 292 353 353
+../data/image/fear_08_196_8887.jpg
+1
+329 212 443 443
+../data/image/happy_02_203_9489.jpg
+1
+357 239 433 433
+../data/image/sad_03_386_2740.jpg
+1
+348 277 351 351
+../data/image/fear_08_197_8887.jpg
+1
+230 257 431 431
+../data/image/disgust_07_251_4390.jpg
+1
+393 287 398 398
+../data/image/surprise_06_359_0119.jpg
+1
+367 242 406 406
+../data/image/fear_08_293_8897.jpg
+1
+407 245 388 388
+../data/image/anger_05_365_0744.jpg
+1
+362 301 355 355
+../data/image/happy_02_281_7564.jpg
+1
+326 237 376 376
+../data/image/sad_03_346_4231.jpg
+1
+385 271 359 359
+../data/image/disgust_07_276_7052.jpg
+1
+342 233 393 393
+../data/image/happy_02_260_5350.jpg
+1
+315 257 413 413
+../data/image/surprise_06_289_8462.jpg
+1
+371 303 362 362
+../data/image/happy_02_131_4477.jpg
+1
+339 217 427 427
+../data/image/fear_08_316_1365.jpg
+1
+294 231 360 360
+../data/image/disgust_07_359_0121.jpg
+1
+389 281 360 360
+../data/image/sad_03_263_5693.jpg
+1
+318 197 429 429
+../data/image/neutral_01_195_8744.jpg
+1
+327 236 427 427
+../data/image/happy_02_236_3373.jpg
+1
+316 202 450 450
+../data/image/disgust_07_178_6565.jpg
+1
+371 239 408 408
+../data/image/sad_03_290_8561.jpg
+1
+283 224 419 419
+../data/image/anger_05_305_0192.jpg
+1
+412 260 381 381
+../data/image/fear_08_269_6379.jpg
+1
+294 282 411 411
+../data/image/disgust_07_209_0340.jpg
+1
+406 268 422 422
+../data/image/happy_02_339_3470.jpg
+1
+427 268 352 352
+../data/image/anger_05_335_3068.jpg
+1
+421 309 341 341
+../data/image/happy_02_135_4904.jpg
+1
+326 224 438 438
+../data/image/anger_05_320_1789.jpg
+1
+363 285 355 355
+../data/image/neutral_01_298_9397.jpg
+1
+300 280 403 403
+../data/image/anger_05_261_5470.jpg
+1
+274 257 403 403
+../data/image/neutral_01_194_8624.jpg
+1
+345 228 422 422
+../data/image/anger_05_141_5039.jpg
+1
+271 271 416 416
+../data/image/sad_03_316_1346.jpg
+1
+367 284 361 361
+../data/image/fear_08_204_9639.jpg
+1
+374 196 456 456
+../data/image/fear_08_174_6010.jpg
+1
+380 245 416 416
+../data/image/fear_08_172_5742.jpg
+1
+420 211 419 419
+../data/image/neutral_01_312_0924.jpg
+1
+394 248 340 340
+../data/image/surprise_06_134_4803.jpg
+1
+371 254 427 427
+../data/image/disgust_07_274_6928.jpg
+1
+252 295 374 374
+../data/image/happy_02_129_4256.jpg
+1
+354 221 478 478
+../data/image/fear_08_193_8523.jpg
+1
+353 216 433 433
+../data/image/happy_02_341_3685.jpg
+1
+377 255 391 391
+../data/image/fear_08_236_3398.jpg
+1
+361 221 423 423
+../data/image/anger_05_217_1159.jpg
+1
+335 269 400 400
+../data/image/surprise_06_313_1042.jpg
+1
+307 266 373 373
+../data/image/sad_03_197_8873.jpg
+1
+239 273 415 415
+../data/image/sad_03_210_0441.jpg
+1
+360 255 412 412
+../data/image/neutral_01_184_7373.jpg
+1
+394 280 393 393
+../data/image/fear_08_250_4279.jpg
+1
+345 272 409 409
+../data/image/fear_08_176_6297.jpg
+1
+422 214 408 408
+../data/image/happy_02_200_9236.jpg
+1
+364 254 443 443
+../data/image/sad_03_238_3600.jpg
+1
+279 253 409 409
+../data/image/neutral_01_380_2101.jpg
+1
+363 264 324 324
+../data/image/anger_05_376_1696.jpg
+1
+341 263 377 377
+../data/image/anger_05_346_4241.jpg
+1
+366 293 363 363
+../data/image/disgust_07_374_1384.jpg
+1
+352 279 370 370
+../data/image/disgust_07_134_4806.jpg
+1
+404 271 379 379
+../data/image/fear_08_389_3065.jpg
+1
+440 267 364 364
+../data/image/sad_03_207_0042.jpg
+1
+317 289 401 401
+../data/image/surprise_06_348_4447.jpg
+1
+336 212 390 390
+../data/image/sad_03_367_0940.jpg
+1
+368 273 383 383
+../data/image/anger_05_181_6828.jpg
+1
+437 314 413 413
+../data/image/fear_08_337_3281.jpg
+1
+299 284 368 368
+../data/image/disgust_07_284_7915.jpg
+1
+354 202 414 414
+../data/image/surprise_06_239_3724.jpg
+1
+326 225 389 389
+../data/image/neutral_01_118_3242.jpg
+1
+277 212 461 461
+../data/image/happy_02_235_3255.jpg
+1
+275 223 403 403
+../data/image/sad_03_388_2947.jpg
+1
+366 272 331 331
+../data/image/happy_02_132_4586.jpg
+1
+285 240 442 442
+../data/image/disgust_07_379_2012.jpg
+1
+408 273 383 383
+../data/image/happy_02_349_4540.jpg
+1
+308 224 359 359
+../data/image/fear_08_205_9764.jpg
+1
+405 214 448 448
+../data/image/fear_08_279_7373.jpg
+1
+361 253 384 384
+../data/image/surprise_06_375_1592.jpg
+1
+389 262 384 384
+../data/image/disgust_07_280_7472.jpg
+1
+406 239 408 408
+../data/image/happy_02_391_3254.jpg
+1
+388 268 365 365
+../data/image/neutral_01_176_6268.jpg
+1
+429 235 419 419
+../data/image/happy_02_240_3824.jpg
+1
+296 245 418 418
+../data/image/sad_03_232_2904.jpg
+1
+353 215 448 448
+../data/image/surprise_06_208_0190.jpg
+1
+293 215 421 421
+../data/image/neutral_01_254_4703.jpg
+1
+330 263 419 419
+../data/image/surprise_06_310_0736.jpg
+1
+407 242 367 367
+../data/image/happy_02_296_9189.jpg
+1
+422 287 408 408
+../data/image/surprise_06_237_3507.jpg
+1
+285 250 401 401
+../data/image/surprise_06_220_1504.jpg
+1
+363 213 437 437
+../data/image/anger_05_355_5190.jpg
+1
+283 295 370 370
+../data/image/fear_08_392_3373.jpg
+1
+300 210 412 412
+../data/image/surprise_06_360_0222.jpg
+1
+359 252 397 397
+../data/image/happy_02_290_8557.jpg
+1
+281 244 418 418
+../data/image/sad_03_254_4708.jpg
+1
+389 208 410 410
+../data/image/happy_02_201_9356.jpg
+1
+331 208 478 478
+../data/image/surprise_06_384_2434.jpg
+1
+373 255 341 341
+../data/image/disgust_07_255_4833.jpg
+1
+350 267 418 418
+../data/image/anger_05_219_1390.jpg
+1
+375 288 399 399
+../data/image/disgust_07_375_1596.jpg
+1
+396 277 347 347
+../data/image/sad_03_179_6685.jpg
+1
+387 286 409 409
+../data/image/disgust_07_393_3474.jpg
+1
+360 195 375 375
+../data/image/surprise_06_178_6562.jpg
+1
+413 221 409 409
+../data/image/surprise_06_334_2963.jpg
+1
+377 255 383 383
+../data/image/anger_05_373_1271.jpg
+1
+344 279 380 380
+../data/image/disgust_07_289_8465.jpg
+1
+357 311 378 378
+../data/image/surprise_06_190_8110.jpg
+1
+423 176 476 476
+../data/image/anger_05_212_0689.jpg
+1
+270 287 421 421
+../data/image/happy_02_231_2745.jpg
+1
+344 270 369 369
+../data/image/surprise_06_382_2645.jpg
+1
+338 229 416 416
+../data/image/neutral_01_201_9354.jpg
+1
+310 215 463 463
+../data/image/sad_03_131_4480.jpg
+1
+354 220 410 410
+../data/image/disgust_07_345_4143.jpg
+1
+413 290 352 352
+../data/image/disgust_07_360_0224.jpg
+1
+395 284 351 351
+../data/image/surprise_06_194_8640.jpg
+1
+375 228 448 448
+../data/image/sad_03_267_6146.jpg
+1
+352 279 421 421
+../data/image/anger_05_134_4799.jpg
+1
+365 291 393 393
+../data/image/anger_05_387_2849.jpg
+1
+374 224 408 408
+../data/image/disgust_07_287_8242.jpg
+1
+297 281 373 373
+../data/image/anger_05_214_0808.jpg
+1
+252 247 402 402
+../data/image/fear_08_257_5048.jpg
+1
+231 204 419 419
+../data/image/surprise_06_325_2135.jpg
+1
+349 272 355 355
+../data/image/neutral_01_236_3370.jpg
+1
+331 201 443 443
+../data/image/neutral_01_215_0906.jpg
+1
+252 205 482 482
+../data/image/surprise_06_393_3470.jpg
+1
+324 204 427 427
+../data/image/disgust_07_313_1045.jpg
+1
+328 279 342 342
+../data/image/anger_05_370_1168.jpg
+1
+301 245 427 427
+../data/image/neutral_01_233_3018.jpg
+1
+370 214 391 391
+../data/image/fear_08_229_2548.jpg
+1
+305 184 460 460
+../data/image/fear_08_232_2925.jpg
+1
+421 231 390 390
+../data/image/neutral_01_132_4584.jpg
+1
+280 253 437 437
+../data/image/anger_05_130_4383.jpg
+1
+431 292 405 405
+../data/image/anger_05_292_8781.jpg
+1
+322 258 416 416
+../data/image/neutral_01_187_7685.jpg
+1
+287 253 410 410
+../data/image/fear_08_218_1288.jpg
+1
+259 287 401 401
+../data/image/surprise_06_374_1382.jpg
+1
+354 264 404 404
+../data/image/happy_02_187_7691.jpg
+1
+313 250 431 431
+../data/image/sad_03_377_1791.jpg
+1
+368 255 349 349
+../data/image/neutral_01_225_2062.jpg
+1
+418 256 397 397
+../data/image/fear_08_141_5054.jpg
+1
+270 200 430 430
+../data/image/anger_05_202_9369.jpg
+1
+354 282 390 390
+../data/image/anger_05_326_2231.jpg
+1
+431 342 337 337
+../data/image/anger_05_303_9932.jpg
+1
+473 260 325 325
+../data/image/happy_02_302_9814.jpg
+1
+352 281 370 370
+../data/image/neutral_01_200_9234.jpg
+1
+317 224 440 440
+../data/image/sad_03_196_8870.jpg
+1
+336 212 425 425
+../data/image/disgust_07_128_4183.jpg
+1
+388 254 368 368
+../data/image/anger_05_366_0847.jpg
+1
+368 314 353 353
+../data/image/happy_02_209_0321.jpg
+1
+389 251 437 437
+../data/image/disgust_07_252_4504.jpg
+1
+343 314 348 348
+../data/image/surprise_06_284_7912.jpg
+1
+387 228 370 370
+../data/image/anger_05_122_3581.jpg
+1
+297 217 439 439
+../data/image/fear_08_181_6845.jpg
+1
+454 227 412 412
+../data/image/anger_05_343_3916.jpg
+1
+395 264 381 381
+../data/image/anger_05_268_6261.jpg
+1
+282 221 442 442
+../data/image/neutral_01_129_4254.jpg
+1
+339 209 484 484
+../data/image/fear_08_328_2445.jpg
+1
+306 229 393 393
+../data/image/surprise_06_128_4179.jpg
+1
+361 215 431 431
+../data/image/happy_02_194_8626.jpg
+1
+350 238 419 419
+../data/image/happy_02_295_9085.jpg
+1
+305 269 394 394
+../data/image/anger_05_333_2852.jpg
+1
+383 292 389 389
+../data/image/happy_02_312_0926.jpg
+1
+404 194 355 355
+../data/image/anger_05_322_1914.jpg
+1
+373 326 350 350
+../data/image/fear_08_223_1862.jpg
+1
+279 241 472 472
+../data/image/happy_02_258_5134.jpg
+1
+443 249 363 363
+../data/image/neutral_01_193_8496.jpg
+1
+383 253 426 426
+../data/image/anger_05_180_7260.jpg
+1
+350 264 395 395
+../data/image/surprise_06_243_4167.jpg
+1
+328 242 383 383
+../data/image/anger_05_191_8246.jpg
+1
+390 259 381 381
+../data/image/happy_02_195_8746.jpg
+1
+306 246 439 439
+../data/image/sad_03_221_1609.jpg
+1
+322 280 407 407
+../data/image/surprise_06_265_5934.jpg
+1
+365 228 456 456
+../data/image/disgust_07_334_2966.jpg
+1
+391 277 366 366
+../data/image/sad_03_218_1269.jpg
+1
+310 277 398 398
+../data/image/anger_05_252_4496.jpg
+1
+337 329 351 351
+../data/image/surprise_06_113_2729.jpg
+1
+349 141 513 513
+../data/image/neutral_01_131_4475.jpg
+1
+338 183 420 420
+../data/image/sad_03_204_9624.jpg
+1
+386 273 416 416
+../data/image/neutral_01_304_0075.jpg
+1
+387 255 413 413
+../data/image/disgust_07_189_7981.jpg
+1
+471 247 397 397
+../data/image/surprise_06_110_2544.jpg
+1
+317 207 441 441
+../data/image/fear_08_318_1583.jpg
+1
+394 219 384 384
+../data/image/sad_03_389_3051.jpg
+1
+387 278 366 366
+../data/image/sad_03_304_0081.jpg
+1
+402 261 396 396
+../data/image/sad_03_193_8502.jpg
+1
+339 224 449 449
+../data/image/surprise_06_142_5317.jpg
+1
+355 154 512 512
+../data/image/fear_08_131_4501.jpg
+1
+332 219 431 431
+../data/image/sad_03_176_6274.jpg
+1
+382 248 430 430
+../data/image/neutral_01_313_1027.jpg
+1
+296 249 358 358
+../data/image/neutral_01_238_3595.jpg
+1
+293 265 366 366
+../data/image/happy_02_294_8984.jpg
+1
+411 285 343 343
+../data/image/happy_02_206_9867.jpg
+1
+378 210 437 437
+../data/image/anger_05_144_5179.jpg
+1
+303 218 484 484
+../data/image/fear_08_177_6441.jpg
+1
+303 228 455 455
+../data/image/anger_05_266_6046.jpg
+1
+338 228 481 481
+../data/image/anger_05_190_8108.jpg
+1
+453 240 419 419
+../data/image/fear_08_210_0458.jpg
+1
+440 267 356 356
+../data/image/happy_02_346_4228.jpg
+1
+381 264 365 365
+../data/image/anger_05_257_5037.jpg
+1
+253 247 387 387
+../data/image/sad_03_296_9191.jpg
+1
+421 272 347 347
+../data/image/fear_08_224_1977.jpg
+1
+294 272 391 391
+../data/image/happy_02_204_9617.jpg
+1
+362 270 420 420
+../data/image/happy_02_366_0838.jpg
+1
+365 260 359 359
+../data/image/happy_02_218_1266.jpg
+1
+282 269 398 398
+../data/image/surprise_06_273_6813.jpg
+1
+387 226 428 428
+../data/image/disgust_07_312_0941.jpg
+1
+413 296 333 333
+../data/image/disgust_07_214_0814.jpg
+1
+231 240 411 411
+../data/image/neutral_01_281_7562.jpg
+1
+332 241 380 380
+../data/image/disgust_07_220_1507.jpg
+1
+351 224 373 373
+../data/image/happy_02_221_1606.jpg
+1
+308 267 417 417
+../data/image/fear_08_184_7412.jpg
+1
+412 207 416 416
+../data/image/happy_02_352_4862.jpg
+1
+369 213 406 406
+../data/image/happy_02_348_4433.jpg
+1
+374 244 338 338
+../data/image/anger_05_262_5579.jpg
+1
+329 247 395 395
+../data/image/disgust_07_121_3493.jpg
+1
+285 257 427 427
+../data/image/surprise_06_255_4830.jpg
+1
+360 253 380 380
+../data/image/fear_08_388_2963.jpg
+1
+385 303 333 333
+../data/image/surprise_06_387_2851.jpg
+1
+377 221 376 376
+../data/image/disgust_07_202_9375.jpg
+1
+353 258 379 379
+../data/image/disgust_07_122_3588.jpg
+1
+309 210 410 410
+../data/image/anger_05_119_3363.jpg
+1
+350 251 432 432
+../data/image/fear_08_309_0639.jpg
+1
+376 266 386 386
+../data/image/happy_02_118_3245.jpg
+1
+272 192 461 461
+../data/image/fear_08_132_4608.jpg
+1
+281 242 446 446
+../data/image/neutral_01_357_0005.jpg
+1
+361 300 303 303
+../data/image/sad_03_184_7380.jpg
+1
+366 250 416 416
+../data/image/disgust_07_343_3923.jpg
+1
+389 242 377 377
+../data/image/sad_03_327_2325.jpg
+1
+389 265 374 374
+../data/image/anger_05_299_9512.jpg
+1
+392 290 360 360
+../data/image/fear_08_361_0336.jpg
+1
+314 265 375 375
+../data/image/surprise_06_320_1792.jpg
+1
+368 296 324 324
+../data/image/happy_02_222_1721.jpg
+1
+378 247 405 405
+../data/image/neutral_01_269_6357.jpg
+1
+321 274 377 377
+../data/image/neutral_01_232_2897.jpg
+1
+377 238 421 421
+../data/image/neutral_01_110_2527.jpg
+1
+304 209 422 422
+../data/image/anger_05_133_4699.jpg
+1
+412 297 422 422
+../data/image/anger_05_306_0299.jpg
+1
+453 272 355 355
+../data/image/sad_03_392_3357.jpg
+1
+292 225 384 384
+../data/image/happy_02_382_2633.jpg
+1
+373 246 362 362
+../data/image/neutral_01_115_2920.jpg
+1
+219 256 431 431
+../data/image/happy_02_276_7037.jpg
+1
+333 236 415 415
+../data/image/disgust_07_322_1921.jpg
+1
+370 277 360 360
+../data/image/neutral_01_209_0319.jpg
+1
+388 235 423 423
+../data/image/neutral_01_341_3683.jpg
+1
+380 241 393 393
+../data/image/sad_03_312_0929.jpg
+1
+413 295 332 332
+../data/image/anger_05_229_2537.jpg
+1
+316 261 406 406
+../data/image/sad_03_194_8629.jpg
+1
+376 248 410 410
+../data/image/happy_02_184_7374.jpg
+1
+408 281 393 393
+../data/image/disgust_07_378_1905.jpg
+1
+417 251 394 394
+../data/image/disgust_07_239_3727.jpg
+1
+327 241 416 416
+../data/image/disgust_07_340_3596.jpg
+1
+382 222 400 400
+../data/image/surprise_06_234_3157.jpg
+1
+352 175 446 446
+../data/image/surprise_06_172_5737.jpg
+1
+387 154 484 484
+../data/image/disgust_07_292_8789.jpg
+1
+362 222 377 377
+../data/image/sad_03_298_9402.jpg
+1
+332 294 392 392
+../data/image/happy_02_140_5440.jpg
+1
+361 226 461 461
+../data/image/happy_02_228_2410.jpg
+1
+280 239 380 380
+../data/image/fear_08_198_9017.jpg
+1
+329 256 381 381
+../data/image/disgust_07_240_3841.jpg
+1
+341 271 406 406
+../data/image/neutral_01_183_7106.jpg
+1
+317 232 416 416
+../data/image/sad_03_242_4046.jpg
+1
+328 276 403 403
+../data/image/surprise_06_379_2010.jpg
+1
+384 258 420 420
+../data/image/surprise_06_319_1683.jpg
+1
+349 253 364 364
+../data/image/fear_08_111_2644.jpg
+1
+333 183 473 473
+../data/image/neutral_01_287_8225.jpg
+1
+266 285 374 374
+../data/image/sad_03_235_3258.jpg
+1
+281 304 379 379
+../data/image/disgust_07_370_1175.jpg
+1
+324 218 426 426
+../data/image/surprise_06_376_1699.jpg
+1
+346 250 384 384
+../data/image/disgust_07_326_2238.jpg
+1
+451 299 337 337
+../data/image/sad_03_341_3689.jpg
+1
+380 287 379 379
+../data/image/fear_08_281_7588.jpg
+1
+338 277 371 371
+../data/image/happy_02_233_3020.jpg
+1
+360 224 402 402
+../data/image/happy_02_332_2742.jpg
+1
+319 238 357 357
+../data/image/fear_08_201_9378.jpg
+1
+366 231 448 448
+../data/image/neutral_01_235_3253.jpg
+1
+295 230 394 394
+../data/image/fear_08_124_3772.jpg
+1
+260 197 452 452
+../data/image/surprise_06_181_6833.jpg
+1
+442 192 396 396
+../data/image/surprise_06_340_3593.jpg
+1
+355 203 461 461
+../data/image/fear_08_384_2441.jpg
+1
+382 220 373 373
+../data/image/neutral_01_391_3252.jpg
+1
+389 277 355 355
+../data/image/disgust_07_200_9253.jpg
+1
+457 295 379 379
+../data/image/anger_05_113_2725.jpg
+1
+358 200 445 445
+../data/image/disgust_07_373_1278.jpg
+1
+350 258 365 365
+../data/image/happy_02_254_4705.jpg
+1
+315 260 413 413
+../data/image/neutral_01_240_3822.jpg
+1
+302 261 418 418
+../data/image/fear_08_367_0959.jpg
+1
+388 254 401 401
+../data/image/disgust_07_273_6816.jpg
+1
+368 230 410 410
+../data/image/fear_08_129_4286.jpg
+1
+356 177 475 475
+../data/image/fear_08_263_5714.jpg
+1
+316 192 438 438
+../data/image/surprise_06_214_0811.jpg
+1
+224 222 434 434
+../data/image/disgust_07_376_1702.jpg
+1
+338 271 363 363
+../data/image/neutral_01_301_9710.jpg
+1
+329 264 368 368
+../data/image/disgust_07_305_0198.jpg
+1
+412 255 382 382
+../data/image/fear_08_351_4777.jpg
+1
+390 257 407 407
+../data/image/neutral_01_127_4066.jpg
+1
+329 245 438 438
+../data/image/happy_02_277_7142.jpg
+1
+310 202 426 426
+../data/image/disgust_07_387_2854.jpg
+1
+375 222 408 408
+../data/image/sad_03_264_5815.jpg
+1
+281 208 429 429
+../data/image/disgust_07_208_0192.jpg
+1
+278 210 410 410
+../data/image/surprise_06_173_5865.jpg
+1
+354 195 432 432
+../data/image/fear_08_123_3677.jpg
+1
+293 191 453 453
+../data/image/disgust_07_265_5937.jpg
+1
+389 216 434 434
+../data/image/neutral_01_277_7140.jpg
+1
+307 208 423 423
+../data/image/disgust_07_314_1146.jpg
+1
+401 247 376 376
+../data/image/anger_05_359_0115.jpg
+1
+380 270 371 371
+../data/image/disgust_07_262_5588.jpg
+1
+299 246 410 410
+../data/image/disgust_07_355_5199.jpg
+1
+300 268 377 377
+../data/image/disgust_07_325_2137.jpg
+1
+367 305 342 342
+../data/image/happy_02_301_9712.jpg
+1
+319 263 373 373
+../data/image/neutral_01_231_2743.jpg
+1
+346 268 363 363
+../data/image/anger_05_189_7974.jpg
+1
+455 333 391 391
+../data/image/fear_08_325_2140.jpg
+1
+361 274 350 350
+../data/image/neutral_01_290_8553.jpg
+1
+198 190 426 426
+../data/image/fear_08_265_5940.jpg
+1
+378 236 438 438
+../data/image/sad_03_271_6581.jpg
+1
+329 286 400 400
+../data/image/disgust_07_177_6435.jpg
+1
+355 232 427 427
+../data/image/fear_08_253_4616.jpg
+1
+371 242 411 411
+../data/image/fear_08_363_0548.jpg
+1
+353 210 395 395
+../data/image/surprise_06_345_4141.jpg
+1
+401 285 370 370
+../data/image/anger_05_199_9127.jpg
+1
+242 250 397 397
+../data/image/fear_08_216_1052.jpg
+1
+320 247 408 408
+../data/image/surprise_06_251_4385.jpg
+1
+414 282 361 361
+../data/image/surprise_06_383_2327.jpg
+1
+407 299 342 342
+../data/image/sad_03_362_0423.jpg
+1
+370 252 350 350
+../data/image/sad_03_201_9359.jpg
+1
+364 236 433 433
+../data/image/sad_03_337_3265.jpg
+1
+289 288 356 356
+../data/image/sad_03_231_2748.jpg
+1
+347 256 357 357
+../data/image/neutral_01_179_6675.jpg
+1
+396 296 404 404
+../data/image/disgust_07_230_2654.jpg
+1
+319 286 343 343
+../data/image/neutral_01_332_2740.jpg
+1
+334 250 360 360
+../data/image/happy_02_314_1131.jpg
+1
+395 242 391 391
+../data/image/anger_05_116_3023.jpg
+1
+273 263 459 459
+../data/image/disgust_07_323_2026.jpg
+1
+337 236 364 364
+../data/image/surprise_06_378_1902.jpg
+1
+402 228 432 432
+../data/image/sad_03_205_9743.jpg
+1
+355 218 407 407
+../data/image/anger_05_274_6920.jpg
+1
+255 313 369 369
+../data/image/disgust_07_319_1685.jpg
+1
+367 250 331 331
+../data/image/anger_05_227_2307.jpg
+1
+442 288 372 372
+../data/image/fear_08_267_6163.jpg
+1
+356 310 398 398
+../data/image/neutral_01_345_4126.jpg
+1
+476 268 359 359
+../data/image/disgust_07_320_1795.jpg
+1
+370 279 360 360
+../data/image/sad_03_132_4589.jpg
+1
+253 239 443 443
+../data/image/happy_02_225_2064.jpg
+1
+413 276 403 403
+../data/image/neutral_01_368_1047.jpg
+1
+349 236 404 404
+../data/image/disgust_07_335_3074.jpg
+1
+420 313 343 343
+../data/image/anger_05_185_7537.jpg
+1
+401 284 386 386
+../data/image/neutral_01_230_2637.jpg
+1
+304 269 356 356
+../data/image/disgust_07_344_4031.jpg
+1
+329 298 355 355
+../data/image/disgust_07_243_4170.jpg
+1
+314 238 412 412
+../data/image/disgust_07_299_9520.jpg
+1
+372 287 365 365
+../data/image/surprise_06_343_3918.jpg
+1
+376 219 414 414
+../data/image/surprise_06_323_2022.jpg
+1
+345 199 381 381
+../data/image/fear_08_264_5834.jpg
+1
+288 239 439 439
+../data/image/neutral_01_302_9812.jpg
+1
+335 262 370 370
+../data/image/happy_02_287_8227.jpg
+1
+280 295 371 371
+../data/image/surprise_06_202_9372.jpg
+1
+337 206 422 422
+../data/image/anger_05_356_5298.jpg
+1
+259 285 349 349
+../data/image/disgust_07_333_2859.jpg
+1
+393 261 383 383
+../data/image/sad_03_123_3657.jpg
+1
+246 246 455 455
+../data/image/sad_03_295_9088.jpg
+1
+314 253 388 388
+../data/image/surprise_06_278_7265.jpg
+1
+304 216 385 385
+../data/image/happy_02_380_2104.jpg
+1
+359 254 330 330
+../data/image/sad_03_258_5139.jpg
+1
+428 245 362 362
+../data/image/disgust_07_348_4452.jpg
+1
+350 237 373 373
+../data/image/neutral_01_272_6686.jpg
+1
+339 225 383 383
+../data/image/fear_08_369_1495.jpg
+1
+383 252 373 373
+../data/image/neutral_01_276_7035.jpg
+1
+336 244 405 405
+../data/image/fear_08_286_8144.jpg
+1
+402 214 379 379
+../data/image/happy_02_115_2922.jpg
+1
+219 246 445 445
+../data/image/neutral_01_382_2631.jpg
+1
+382 238 356 356
+../data/image/anger_05_256_4934.jpg
+1
+381 280 387 387
+../data/image/neutral_01_295_9083.jpg
+1
+308 266 391 391
+../data/image/sad_03_307_0407.jpg
+1
+415 278 344 344
+../data/image/disgust_07_303_9938.jpg
+1
+463 251 328 328
+../data/image/surprise_06_370_1172.jpg
+1
+295 208 458 458
+../data/image/surprise_06_335_3071.jpg
+1
+408 282 365 365
+../data/image/surprise_06_191_8249.jpg
+1
+388 211 413 413
+../data/image/surprise_06_350_4667.jpg
+1
+392 204 444 444
+../data/image/surprise_06_211_0575.jpg
+1
+261 234 422 422
+../data/image/sad_03_129_4259.jpg
+1
+350 221 484 484
+../data/image/neutral_01_258_5132.jpg
+1
+442 244 359 359
+../data/image/sad_03_269_6362.jpg
+1
+314 287 375 375
+../data/image/anger_05_128_4176.jpg
+1
+402 305 352 352
+../data/image/fear_08_188_7853.jpg
+1
+282 281 411 411
+../data/image/neutral_01_135_4900.jpg
+1
+345 226 429 429
+../data/image/happy_02_282_7679.jpg
+1
+308 231 420 420
+../data/image/surprise_06_314_1143.jpg
+1
+381 236 410 410
+../data/image/surprise_06_252_4499.jpg
+1
+326 290 374 374
+../data/image/sad_03_223_1847.jpg
+1
+378 202 404 404
+../data/image/happy_02_389_3048.jpg
+1
+381 278 317 317
+../data/image/sad_03_309_0624.jpg
+1
+377 252 374 374
+../data/image/disgust_07_213_0697.jpg
+1
+334 232 446 446
+../data/image/sad_03_203_9492.jpg
+1
+366 268 424 424
+../data/image/surprise_06_192_8385.jpg
+1
+316 261 424 424
+../data/image/fear_08_207_0064.jpg
+1
+318 271 413 413
+../data/image/neutral_01_348_4431.jpg
+1
+390 251 329 329
+../data/image/neutral_01_352_4860.jpg
+1
+371 215 406 406
+../data/image/surprise_06_177_6430.jpg
+1
+351 227 442 442
+../data/image/fear_08_307_0424.jpg
+1
+419 232 368 368
+../data/image/disgust_07_190_8113.jpg
+1
+465 219 412 412
+../data/image/neutral_01_271_6574.jpg
+1
+347 275 366 366
+../data/image/neutral_01_218_1264.jpg
+1
+282 281 386 386
+../data/image/anger_05_300_9621.jpg
+1
+358 281 369 369
+../data/image/fear_08_235_3278.jpg
+1
+285 197 459 459
+../data/image/disgust_07_283_7801.jpg
+1
+268 228 410 410
+../data/image/neutral_01_221_1604.jpg
+1
+296 264 406 406
+../data/image/disgust_07_194_8643.jpg
+1
+441 267 372 372
+../data/image/fear_08_242_4066.jpg
+1
+307 235 421 421
+../data/image/neutral_01_294_8982.jpg
+1
+403 283 342 342
+../data/image/sad_03_250_4263.jpg
+1
+373 270 407 407
+../data/image/neutral_01_204_9615.jpg
+1
+375 260 405 405
+../data/image/anger_05_125_3870.jpg
+1
+282 253 420 420
+../data/image/surprise_06_212_0693.jpg
+1
+279 182 463 463
+../data/image/fear_08_241_3955.jpg
+1
+280 233 412 412
+../data/image/surprise_06_230_2651.jpg
+1
+308 285 347 347
+../data/image/disgust_07_258_5151.jpg
+1
+432 254 353 353
+../data/image/anger_05_129_4273.jpg
+1
+347 218 476 476
+../data/image/anger_05_175_6141.jpg
+1
+261 260 388 388
+../data/image/happy_02_268_6252.jpg
+1
+252 214 448 448
+../data/image/anger_05_388_2954.jpg
+1
+370 300 331 331
+../data/image/neutral_01_306_0286.jpg
+1
+432 295 319 319
+../data/image/happy_02_234_3141.jpg
+1
+336 230 420 420
+../data/image/surprise_06_222_1737.jpg
+1
+266 217 438 438
+../data/image/happy_02_122_3571.jpg
+1
+296 191 444 444
+../data/image/surprise_06_115_2936.jpg
+1
+214 249 453 453
+../data/image/anger_05_327_2331.jpg
+1
+411 292 332 332
+../data/image/anger_05_316_1354.jpg
+1
+339 263 371 371
+../data/image/happy_02_229_2528.jpg
+1
+252 184 495 495
+../data/image/sad_03_243_4156.jpg
+1
+306 226 419 419
+../data/image/sad_03_344_4017.jpg
+1
+310 290 370 370
+../data/image/fear_08_121_3495.jpg
+1
+264 232 443 443
+../data/image/surprise_06_295_9097.jpg
+1
+334 265 361 361
+../data/image/neutral_01_292_8770.jpg
+1
+309 225 414 414
+../data/image/anger_05_235_3265.jpg
+1
+249 310 380 380
+../data/image/happy_02_174_5988.jpg
+1
+429 281 402 402
+../data/image/disgust_07_205_9759.jpg
+1
+422 255 394 394
+../data/image/sad_03_323_2014.jpg
+1
+345 244 362 362
+../data/image/neutral_01_180_7247.jpg
+1
+338 244 396 396
+../data/image/fear_08_334_2970.jpg
+1
+392 251 374 374
+../data/image/fear_08_125_3879.jpg
+1
+262 199 459 459
+../data/image/neutral_01_328_2424.jpg
+1
+327 264 341 341
+../data/image/anger_05_242_4053.jpg
+1
+314 297 402 402
+../data/image/disgust_07_253_4613.jpg
+1
+382 275 392 392
+../data/image/disgust_07_263_5713.jpg
+1
+329 199 424 424
+../data/image/anger_05_224_1968.jpg
+1
+316 295 376 376
+../data/image/happy_02_211_0561.jpg
+1
+246 241 404 404
+../data/image/sad_03_190_8097.jpg
+1
+420 214 429 429
+../data/image/anger_05_187_7700.jpg
+1
+314 266 440 440
+../data/image/happy_02_270_6467.jpg
+1
+312 291 418 418
+../data/image/surprise_06_389_3060.jpg
+1
+385 234 395 395
+../data/image/anger_05_339_3482.jpg
+1
+424 272 400 400
+../data/image/disgust_07_315_1256.jpg
+1
+369 296 339 339
+../data/image/anger_05_179_6696.jpg
+1
+396 285 408 408
+../data/image/fear_08_217_1168.jpg
+1
+339 229 416 416
+../data/image/surprise_06_236_3388.jpg
+1
+316 209 482 482
+../data/image/anger_05_391_3264.jpg
+1
+372 295 356 356
+../data/image/neutral_01_262_5566.jpg
+1
+287 226 407 407
+../data/image/neutral_01_355_5177.jpg
+1
+264 280 376 376
+../data/image/fear_08_305_0202.jpg
+1
+390 201 406 406
+../data/image/anger_05_193_8512.jpg
+1
+353 260 431 431
+../data/image/happy_02_257_5028.jpg
+1
+241 201 400 400
+../data/image/fear_08_333_2861.jpg
+1
+399 263 389 389
+../data/image/disgust_07_264_5831.jpg
+1
+294 229 415 415
+../data/image/sad_03_355_5183.jpg
+1
+250 272 375 375
+../data/image/neutral_01_384_2419.jpg
+1
+382 269 313 313
+../data/image/surprise_06_188_7847.jpg
+1
+283 262 424 424
+../data/image/neutral_01_219_1377.jpg
+1
+361 244 374 374
+../data/image/surprise_06_294_8996.jpg
+1
+401 286 357 357
+../data/image/sad_03_289_8451.jpg
+1
+378 312 345 345
+../data/image/fear_08_350_4673.jpg
+1
+400 207 445 445
+../data/image/happy_02_216_1034.jpg
+1
+312 263 386 386
+../data/image/anger_05_290_8566.jpg
+1
+287 255 409 409
+../data/image/anger_05_201_9367.jpg
+1
+351 222 430 430
+../data/image/fear_08_191_8260.jpg
+1
+399 200 412 412
+../data/image/sad_03_288_8336.jpg
+1
+249 260 397 397
+../data/image/surprise_06_315_1253.jpg
+1
+333 290 353 353
+../data/image/surprise_06_231_2757.jpg
+1
+344 253 399 399
+../data/image/fear_08_130_4398.jpg
+1
+406 251 381 381
+../data/image/fear_08_252_4507.jpg
+1
+324 286 411 411
+../data/image/fear_08_381_2228.jpg
+1
+311 215 371 371
+../data/image/anger_05_226_2189.jpg
+1
+346 316 369 369
+../data/image/surprise_06_176_6287.jpg
+1
+412 261 425 425
+../data/image/neutral_01_241_3933.jpg
+1
+325 242 383 383
+../data/image/surprise_06_352_4875.jpg
+1
+375 216 424 424
+../data/image/anger_05_386_2747.jpg
+1
+340 290 358 358
+../data/image/sad_03_173_5850.jpg
+1
+308 222 486 486
+../data/image/sad_03_178_6553.jpg
+1
+369 215 386 386
+../data/image/disgust_07_361_0331.jpg
+1
+329 253 365 365
+../data/image/fear_08_355_5200.jpg
+1
+283 245 410 410
+../data/image/happy_02_353_4966.jpg
+1
+379 223 380 380
+../data/image/neutral_01_285_8005.jpg
+1
+342 253 381 381
+../data/image/sad_03_376_1690.jpg
+1
+358 247 386 386
+../data/image/surprise_06_233_3036.jpg
+1
+407 241 350 350
+../data/image/surprise_06_332_2754.jpg
+1
+306 223 370 370
+../data/image/anger_05_238_3606.jpg
+1
+294 292 411 411
+../data/image/sad_03_126_3968.jpg
+1
+278 148 521 521
+../data/image/fear_08_266_6058.jpg
+1
+336 198 456 456
+../data/image/fear_08_190_8116.jpg
+1
+424 189 451 451
+../data/image/happy_02_286_8122.jpg
+1
+395 225 412 412
+../data/image/disgust_07_307_0421.jpg
+1
+434 290 351 351
+../data/image/neutral_01_239_3708.jpg
+1
+307 258 418 418
+../data/image/surprise_06_282_7693.jpg
+1
+313 230 451 451
+../data/image/surprise_06_179_6701.jpg
+1
+345 227 463 463
+../data/image/fear_08_233_3045.jpg
+1
+392 251 369 369
+../data/image/happy_02_364_0628.jpg
+1
+340 253 411 411
+../data/image/anger_05_183_7119.jpg
+1
+351 261 408 408
+../data/image/anger_05_207_0050.jpg
+1
+317 312 408 408
+../data/image/disgust_07_282_7697.jpg
+1
+344 229 409 409
+../data/image/fear_08_258_5154.jpg
+1
+419 234 424 424
+../data/image/disgust_07_179_6705.jpg
+1
+406 240 392 392
+../data/image/neutral_01_126_3963.jpg
+1
+264 147 499 499
+../data/image/neutral_01_133_4687.jpg
+1
+387 267 425 425
+../data/image/surprise_06_216_1046.jpg
+1
+309 249 430 430
+../data/image/disgust_07_318_1580.jpg
+1
+392 222 370 370
+../data/image/sad_03_261_5463.jpg
+1
+278 262 406 406
+../data/image/neutral_01_114_2824.jpg
+1
+318 220 454 454
+../data/image/disgust_07_351_4773.jpg
+1
+410 277 386 386
+../data/image/sad_03_237_3495.jpg
+1
+291 242 416 416
+../data/image/fear_08_251_4393.jpg
+1
+398 271 402 402
+../data/image/neutral_01_315_1236.jpg
+1
+397 292 344 344
+../data/image/anger_05_368_1058.jpg
+1
+378 260 400 400
+../data/image/disgust_07_196_8884.jpg
+1
+327 224 427 427
+../data/image/anger_05_272_6698.jpg
+1
+309 235 410 410
+../data/image/sad_03_111_2628.jpg
+1
+346 240 470 470
+../data/image/disgust_07_197_8884.jpg
+1
+225 238 460 460
+../data/image/anger_05_347_4340.jpg
+1
+388 276 358 358
+../data/image/happy_02_114_2826.jpg
+1
+312 194 464 464
+../data/image/surprise_06_140_5454.jpg
+1
+361 178 489 489
+../data/image/anger_05_228_2419.jpg
+1
+330 268 368 368
+../data/image/anger_05_140_5449.jpg
+1
+370 281 438 438
+../data/image/anger_05_302_9825.jpg
+1
+367 293 363 363
+../data/image/sad_03_374_1372.jpg
+1
+353 272 378 378
+../data/image/disgust_07_241_3952.jpg
+1
+270 225 430 430
+../data/image/disgust_07_242_4061.jpg
+1
+270 236 409 409
+../data/image/neutral_01_130_4371.jpg
+1
+382 234 394 394
+../data/image/fear_08_209_0343.jpg
+1
+408 219 439 439
+../data/image/neutral_01_340_3578.jpg
+1
+381 239 361 361
+../data/image/fear_08_173_5871.jpg
+1
+311 178 485 485
+../data/image/sad_03_366_0841.jpg
+1
+359 248 406 406
+../data/image/neutral_01_214_0795.jpg
+1
+231 231 422 422
+../data/image/happy_02_320_1778.jpg
+1
+345 265 373 373
+../data/image/disgust_07_184_7403.jpg
+1
+430 243 401 401
+../data/image/fear_08_373_1283.jpg
+1
+278 234 423 423
+../data/image/neutral_01_286_8120.jpg
+1
+413 239 410 410
+../data/image/disgust_07_129_4282.jpg
+1
+355 199 465 465
+../data/image/neutral_01_283_7782.jpg
+1
+287 218 413 413
+../data/image/happy_02_375_1580.jpg
+1
+383 246 361 361
+../data/image/surprise_06_328_2440.jpg
+1
+324 245 349 349
+../data/image/disgust_07_174_6007.jpg
+1
+413 265 394 394
+../data/image/surprise_06_141_5044.jpg
+1
+271 185 493 493
+../data/image/happy_02_285_8007.jpg
+1
+354 263 383 383
+../data/image/disgust_07_259_5257.jpg
+1
+431 320 339 339
+../data/image/disgust_07_114_2845.jpg
+1
+330 212 447 447
+../data/image/happy_02_310_0724.jpg
+1
+372 239 351 351
+../data/image/fear_08_343_3926.jpg
+1
+386 255 388 388
+../data/image/fear_08_278_7272.jpg
+1
+283 230 406 406
+../data/image/surprise_06_311_0838.jpg
+1
+368 279 361 361
+../data/image/sad_03_378_1894.jpg
+1
+409 239 406 406
+../data/image/happy_02_263_4.jpg
+1
+1316 759 1048 1048
+../data/image/fear_08_322_1924.jpg
+1
+351 234 425 425
+../data/image/fear_08_243_4176.jpg
+1
+300 213 459 459
+../data/image/disgust_07_286_8143.jpg
+1
+384 254 362 362
+../data/image/anger_05_337_3271.jpg
+1
+307 320 354 354
+../data/image/fear_08_393_3528.jpg
+1
+379 199 404 404
+../data/image/disgust_07_193_8520.jpg
+1
+387 235 427 427
+../data/image/surprise_06_114_2841.jpg
+1
+300 159 519 519
+../data/image/neutral_01_316_1339.jpg
+1
+372 272 360 360
+../data/image/anger_05_309_0630.jpg
+1
+384 291 383 383
+../data/image/fear_08_348_4454.jpg
+1
+330 208 389 389
+../data/image/fear_08_374_1387.jpg
+1
+357 269 408 408
+../data/image/neutral_01_189_7956.jpg
+1
+393 277 415 415
+../data/image/anger_05_223_1853.jpg
+1
+385 233 400 400
+../data/image/disgust_07_369_1493.jpg
+1
+370 281 384 384
+../data/image/fear_08_261_5480.jpg
+1
+286 254 409 409
+../data/image/neutral_01_205_9738.jpg
+1
+347 190 422 422
+../data/image/disgust_07_111_2641.jpg
+1
+352 200 445 445
+../data/image/fear_08_344_4036.jpg
+1
+338 234 347 347
+../data/image/sad_03_252_4490.jpg
+1
+310 281 402 402
+../data/image/disgust_07_176_6294.jpg
+1
+449 294 381 381
+../data/image/disgust_07_127_4088.jpg
+1
+376 266 423 423
+../data/image/anger_05_389_3057.jpg
+1
+381 282 347 347
+../data/image/sad_03_360_0212.jpg
+1
+391 264 351 351
+../data/image/anger_05_288_8344.jpg
+1
+269 295 389 389
+../data/image/happy_02_328_2426.jpg
+1
+317 252 348 348
+../data/image/surprise_06_293_8891.jpg
+1
+378 268 366 366
+../data/image/anger_05_345_4138.jpg
+1
+409 294 352 352
+../data/image/fear_08_376_1707.jpg
+1
+351 267 375 375
+../data/image/surprise_06_197_8881.jpg
+1
+214 234 439 439
+../data/image/sad_03_217_1149.jpg
+1
+332 232 417 417
+../data/image/surprise_06_196_8881.jpg
+1
+335 215 422 422
+../data/image/happy_02_292_8772.jpg
+1
+298 243 425 425
+../data/image/happy_02_293_8000.jpg
+1
+1499 868 905 905
+../data/image/fear_08_200_9256.jpg
+1
+460 283 377 377
+../data/image/disgust_07_279_7370.jpg
+1
+377 268 373 373
+../data/image/neutral_01_220_1488.jpg
+1
+345 257 404 404
+../data/image/happy_02_116_3015.jpg
+1
+275 245 470 470
+../data/image/sad_03_343_3910.jpg
+1
+382 251 371 371
+../data/image/neutral_01_356_5287.jpg
+1
+273 232 363 363
+../data/image/fear_08_192_8393.jpg
+1
+291 241 435 435
+../data/image/sad_03_299_9504.jpg
+1
+371 262 367 367
+../data/image/sad_03_239_3714.jpg
+1
+339 267 366 366
+../data/image/fear_08_117_3149.jpg
+1
+318 196 430 430
+../data/image/fear_08_312_0945.jpg
+1
+412 292 338 338
+../data/image/neutral_01_268_6250.jpg
+1
+265 193 446 446
+../data/image/fear_08_283_7807.jpg
+1
+229 174 475 475
+../data/image/disgust_07_293_8895.jpg
+1
+398 268 380 380
+../data/image/sad_03_220_1497.jpg
+1
+335 256 435 435
+../data/image/fear_08_194_8651.jpg
+1
+408 194 443 443
+../data/image/surprise_06_148_5571.jpg
+1
+384 271 402 402
+../data/image/fear_08_336_3178.jpg
+1
+380 243 384 384
+../data/image/fear_08_345_4146.jpg
+1
+417 280 359 359
+../data/image/surprise_06_380_2116.jpg
+1
+343 211 393 393
+../data/image/happy_02_217_1146.jpg
+1
+341 254 369 369
+../data/image/fear_08_383_2334.jpg
+1
+395 279 351 351
+../data/image/anger_05_148_5568.jpg
+1
+411 331 370 370
+../data/image/sad_03_328_2429.jpg
+1
+311 246 339 339
+../data/image/happy_02_130_4374.jpg
+1
+374 230 405 405
+../data/image/fear_08_230_2657.jpg
+1
+290 251 366 366
+../data/image/fear_08_287_8247.jpg
+1
+302 265 374 374
+../data/image/anger_05_293_8888.jpg
+1
+402 317 376 376
+../data/image/happy_02_370_1160.jpg
+1
+324 250 365 365
+../data/image/surprise_06_351_4772.jpg
+1
+396 227 405 405
+../data/image/happy_02_381_2207.jpg
+1
+312 228 374 374
+../data/image/fear_08_356_5308.jpg
+1
+260 275 356 356
+../data/image/neutral_01_338_3367.jpg
+1
+396 271 312 312
+../data/image/sad_03_229_2531.jpg
+1
+279 202 480 480
+../data/image/disgust_07_316_1363.jpg
+1
+344 243 351 351
+../data/image/anger_05_282_7689.jpg
+1
+338 275 408 408
+../data/image/fear_08_222_1742.jpg
+1
+300 234 422 422
+../data/image/sad_03_359_0110.jpg
+1
+370 247 420 420
+../data/image/neutral_01_251_4369.jpg
+1
+393 284 348 348
+../data/image/neutral_01_325_2120.jpg
+1
+359 297 299 299
+../data/image/sad_03_257_5031.jpg
+1
+255 236 389 389
+../data/image/sad_03_142_5308.jpg
+1
+411 200 477 477
+../data/image/happy_02_227_2296.jpg
+1
+430 274 386 386
+../data/image/neutral_01_265_5920.jpg
+1
+369 258 381 381
+../data/image/sad_03_125_3860.jpg
+1
+291 217 429 429
+../data/image/sad_03_266_6040.jpg
+1
+343 210 461 461
+../data/image/sad_03_347_4334.jpg
+1
+386 282 361 361
+../data/image/anger_05_311_0834.jpg
+1
+371 324 328 328
+../data/image/disgust_07_267_6160.jpg
+1
+348 309 370 370
+../data/image/neutral_01_134_4785.jpg
+1
+355 259 415 415
+../data/image/fear_08_379_2015.jpg
+1
+387 255 402 402
+../data/image/happy_02_289_8448.jpg
+1
+357 286 397 397
+../data/image/fear_08_323_2031.jpg
+1
+371 244 316 316
+../data/image/neutral_01_113_2715.jpg
+1
+342 169 458 458
+../data/image/sad_03_189_7965.jpg
+1
+406 295 404 404
+../data/image/happy_02_214_0800.jpg
+1
+236 271 419 419
+../data/image/fear_08_299_9523.jpg
+1
+346 251 429 429
+../data/image/happy_02_142_5303.jpg
+1
+389 213 484 484
+../data/image/surprise_06_124_3763.jpg
+1
+264 199 448 448
+../data/image/fear_08_128_4186.jpg
+1
+363 202 455 455
+../data/image/happy_02_125_3857.jpg
+1
+326 164 438 438
+../data/image/sad_03_305_0186.jpg
+1
+411 250 387 387
+../data/image/neutral_01_140_5436.jpg
+1
+320 248 459 459
+../data/image/fear_08_335_3077.jpg
+1
+421 297 347 347
+../data/image/happy_02_300_9612.jpg
+1
+370 263 380 380
+../data/image/anger_05_232_2911.jpg
+1
+372 260 402 402
+../data/image/happy_02_207_0039.jpg
+1
+311 244 402 402
+../data/image/neutral_01_390_3146.jpg
+1
+372 261 334 334
+../data/image/anger_05_124_3756.jpg
+1
+246 287 430 430
+../data/image/neutral_01_216_1032.jpg
+1
+304 255 385 385
+../data/image/fear_08_180_7269.jpg
+1
+311 216 422 422
+../data/image/anger_05_301_9721.jpg
+1
+342 278 360 360
+../data/image/anger_05_127_4080.jpg
+1
+366 225 432 432
+../data/image/happy_02_363_0529.jpg
+1
+334 244 398 398
+../data/image/surprise_06_226_2192.jpg
+1
+346 291 408 408
+../data/image/disgust_07_389_3063.jpg
+1
+433 267 340 340
+../data/image/disgust_07_339_3488.jpg
+1
+434 288 339 339
+../data/image/surprise_06_290_8569.jpg
+1
+300 256 370 370
+../data/image/happy_02_360_0208.jpg
+1
+389 260 307 307
+../data/image/happy_02_241_3935.jpg
+1
+300 243 387 387
+../data/image/disgust_07_188_7850.jpg
+1
+307 281 377 377
+../data/image/sad_03_334_2954.jpg
+1
+383 255 372 372
+../data/image/disgust_07_337_3278.jpg
+1
+312 312 355 355
+../data/image/happy_02_192_8369.jpg
+1
+315 217 390 390
+../data/image/happy_02_387_2840.jpg
+1
+425 241 357 357
+../data/image/sad_03_219_1384.jpg
+1
+350 239 417 417
+../data/image/sad_03_364_0631.jpg
+1
+353 242 433 433
+../data/image/fear_08_115_2942.jpg
+1
+241 220 442 442
+../data/image/surprise_06_182_6977.jpg
+1
+398 222 440 440
+../data/image/fear_08_189_7984.jpg
+1
+460 252 405 405
+../data/image/fear_08_382_2651.jpg
+1
+368 228 375 375
+../data/image/anger_05_318_1574.jpg
+1
+385 270 378 378
+../data/image/fear_08_276_7055.jpg
+1
+315 249 448 448
+../data/image/sad_03_278_7255.jpg
+1
+276 238 357 357
+../data/image/surprise_06_238_3609.jpg
+1
+305 216 427 427
+../data/image/neutral_01_274_6907.jpg
+1
+292 220 377 377
+../data/image/surprise_06_123_3667.jpg
+1
+259 207 505 505
+../data/image/surprise_06_203_9501.jpg
+1
+353 210 466 466
+../data/image/sad_03_333_2845.jpg
+1
+386 257 384 384
+../data/image/happy_02_126_3965.jpg
+1
+272 132 502 502
+../data/image/sad_03_350_4657.jpg
+1
+417 239 361 361
+../data/image/anger_05_184_7393.jpg
+1
+395 248 406 406
+../data/image/surprise_06_302_9828.jpg
+1
+354 232 392 392
+../data/image/anger_05_205_9751.jpg
+1
+396 254 436 436
+../data/image/fear_08_220_1510.jpg
+1
+346 247 396 396
+../data/image/sad_03_174_5992.jpg
+1
+400 294 399 399
+../data/image/surprise_06_316_1358.jpg
+1
+336 198 386 386
+../data/image/surprise_06_263_5706.jpg
+1
+322 201 411 411
+../data/image/anger_05_307_0414.jpg
+1
+427 308 344 344
+../data/image/disgust_07_224_1974.jpg
+1
+313 299 370 370
+../data/image/surprise_06_279_7367.jpg
+1
+404 256 357 357
+../data/image/sad_03_227_2301.jpg
+1
+428 233 423 423
+../data/image/sad_03_125_9.jpg
+1
+1764 780 967 967
+../data/image/disgust_07_388_2960.jpg
+1
+377 297 325 325
+../data/image/disgust_07_175_6149.jpg
+1
+251 253 371 371
+../data/image/happy_02_111_2625.jpg
+1
+323 234 460 460
+../data/image/fear_08_219_1399.jpg
+1
+352 246 415 415
+../data/image/sad_03_326_2225.jpg
+1
+428 268 349 349
+../data/image/fear_08_359_0124.jpg
+1
+371 250 388 388
+../data/image/sad_03_319_1671.jpg
+1
+347 266 340 340
+../data/image/happy_02_283_7784.jpg
+1
+275 214 421 421
+../data/image/disgust_07_296_9204.jpg
+1
+418 293 345 345
+../data/image/neutral_01_227_2295.jpg
+1
+427 272 377 377
+../data/image/neutral_01_199_9116.jpg
+1
+230 217 401 401
+../data/image/anger_05_271_6587.jpg
+1
+342 293 398 398
+../data/image/neutral_01_310_0722.jpg
+1
+382 236 352 352
+../data/image/disgust_07_223_1859.jpg
+1
+367 236 397 397
+../data/image/disgust_07_232_2923.jpg
+1
+404 263 381 381
+../data/image/anger_05_331_2642.jpg
+1
+331 320 368 368
+../data/image/fear_08_346_4248.jpg
+1
+391 247 365 365
+../data/image/happy_02_210_0438.jpg
+1
+333 256 411 411
+../data/image/sad_03_353_4969.jpg
+1
+386 210 428 428
+../data/image/anger_05_267_6152.jpg
+1
+347 335 374 374
+../data/image/sad_03_199_9121.jpg
+1
+240 237 403 403
+../data/image/fear_08_239_3730.jpg
+1
+319 251 391 391
+../data/image/anger_05_313_1039.jpg
+1
+339 289 338 338
+../data/image/fear_08_370_1177.jpg
+1
+299 195 438 438
+../data/image/anger_05_281_7578.jpg
+1
+327 311 372 372
+../data/image/sad_03_113_2721.jpg
+1
+325 172 476 476
+../data/image/disgust_07_328_2442.jpg
+1
+310 249 381 381
+../data/image/disgust_07_215_0928.jpg
+1
+289 216 413 413
+../data/image/sad_03_336_3164.jpg
+1
+422 276 359 359
+../data/image/surprise_06_259_5255.jpg
+1
+430 321 362 362
+../data/image/anger_05_362_0431.jpg
+1
+375 335 347 347
+../data/image/neutral_01_334_2949.jpg
+1
+379 235 375 375
+../data/image/sad_03_192_8374.jpg
+1
+281 225 428 428
+../data/image/disgust_07_131_4498.jpg
+1
+349 232 407 407
+../data/image/disgust_07_141_5047.jpg
+1
+312 224 420 420
+../data/image/surprise_06_174_6004.jpg
+1
+372 238 426 426
+../data/image/fear_08_119_3378.jpg
+1
+357 224 433 433
+../data/image/neutral_01_300_9610.jpg
+1
+349 264 377 377
+../data/image/happy_02_273_6801.jpg
+1
+419 275 384 384
+../data/image/neutral_01_142_5301.jpg
+1
+409 181 458 458
+../data/image/neutral_01_347_4329.jpg
+1
+375 252 363 363
+../data/image/anger_05_206_9878.jpg
+1
+431 285 404 404
+../data/image/happy_02_384_2421.jpg
+1
+375 264 330 330
+../data/image/neutral_01_144_5166.jpg
+1
+321 166 499 499
+../data/image/disgust_07_198_9014.jpg
+1
+348 248 377 377
+../data/image/anger_05_204_9630.jpg
+1
+383 290 411 411
+../data/image/sad_03_251_4374.jpg
+1
+403 306 349 349
+../data/image/neutral_01_125_3855.jpg
+1
+278 168 436 436
+../data/image/neutral_01_375_1578.jpg
+1
+380 250 361 361
+../data/image/surprise_06_264_5825.jpg
+1
+311 238 419 419
+../data/image/sad_03_363_0535.jpg
+1
+326 208 431 431
+../data/image/sad_03_373_1264.jpg
+1
+332 252 390 390
+../data/image/anger_05_260_5359.jpg
+1
+322 309 405 405
+../data/image/disgust_07_226_2195.jpg
+1
+342 297 379 379
+../data/image/happy_02_325_2122.jpg
+1
+345 278 348 348
+../data/image/neutral_01_353_4963.jpg
+1
+385 180 372 372
+../data/image/happy_02_265_5922.jpg
+1
+405 227 406 406
+../data/image/neutral_01_270_6463.jpg
+1
+312 235 457 457
+../data/image/happy_02_134_4787.jpg
+1
+344 253 421 421
+../data/image/anger_05_236_3385.jpg
+1
+348 234 416 416
+../data/image/disgust_07_207_0058.jpg
+1
+372 244 394 394
+../data/image/happy_02_141_5030.jpg
+1
+270 264 428 428
+../data/image/neutral_01_381_2205.jpg
+1
+339 243 374 374
+../data/image/happy_02_340_3580.jpg
+1
+363 260 362 362
+../data/image/neutral_01_211_0559.jpg
+1
+239 239 401 401
+../data/image/happy_02_386_2738.jpg
+1
+340 268 363 363
+../data/image/surprise_06_349_4555.jpg
+1
+283 212 419 419
+../data/image/neutral_01_141_5024.jpg
+1
+271 237 438 438
+../data/image/surprise_06_392_3366.jpg
+1
+310 210 417 417
+../data/image/sad_03_303_9927.jpg
+1
+458 248 328 328
+../data/image/fear_08_110_2552.jpg
+1
+296 245 467 467
+../data/image/happy_02_119_3350.jpg
+1
+356 176 436 436
+../data/image/surprise_06_224_1971.jpg
+1
+293 271 405 405
+../data/image/anger_05_117_3135.jpg
+1
+333 262 412 412
+../data/image/neutral_01_111_2624.jpg
+1
+313 222 462 462
+../data/image/neutral_01_116_3013.jpg
+1
+279 228 458 458
+../data/image/disgust_07_203_9506.jpg
+1
+366 234 427 427
+../data/image/neutral_01_217_1144.jpg
+1
+355 245 368 368
+../data/image/fear_08_387_2857.jpg
+1
+365 220 430 430
+../data/image/disgust_07_123_3674.jpg
+1
+309 222 437 437
+../data/image/happy_02_188_7830.jpg
+1
+319 243 398 398
+../data/image/sad_03_256_4926.jpg
+1
+387 253 403 403
+../data/image/surprise_06_209_0337.jpg
+1
+402 250 416 416
+../data/image/sad_03_116_3018.jpg
+1
+282 220 468 468
+../data/image/fear_08_237_3512.jpg
+1
+282 223 413 413
+../data/image/surprise_06_296_9201.jpg
+1
+403 244 376 376
+../data/image/surprise_06_184_7400.jpg
+1
+342 194 456 456
+../data/image/anger_05_269_6370.jpg
+1
+325 308 385 385
